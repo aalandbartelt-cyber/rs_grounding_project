@@ -1,0 +1,5 @@
+/weights/
+/input/
+/output/
+*.tar
+*.tar.gz

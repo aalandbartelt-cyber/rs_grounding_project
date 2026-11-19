@@ -1,0 +1,8 @@
+{
+  "python": "3.12.13",
+  "torch": "2.8.0+cpu",
+  "transformers": "4.51.3",
+  "cuda_available": false,
+  "device": "cpu",
+  "notes": "Feature extraction timer excludes model loading and is not competition end-to-end runtime."
+}

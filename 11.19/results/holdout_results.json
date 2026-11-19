@@ -1,0 +1,85 @@
+{
+  "scope": "reviewed civilian passenger-aircraft holdout only",
+  "device": "cpu",
+  "images": 47,
+  "queries": 75,
+  "config_sha256": "edb976bc2bce0754317e4421e8f720e2f94a26dfc2a680b9cfb3e946a6da5511",
+  "annotation_audit": {
+    "unique_texts": 27,
+    "texts_shared_by_images": 13,
+    "repeated_image_text_queries": 4,
+    "deterministic_text_only_retrieval_ceiling": {
+      "R@1": 0.4,
+      "R@5": 0.8533333333333334
+    }
+  },
+  "baseline": {
+    "images": 47,
+    "queries": 75,
+    "retrieval": {
+      "R@1": 0.09333333333333334,
+      "R@5": 0.14666666666666667,
+      "hits_at_1": 7,
+      "hits_at_5": 11
+    },
+    "grounding": {
+      "IoU@0.5": {
+        "hits": 45,
+        "total": 75,
+        "rate": 0.6
+      },
+      "IoU@0.75": {
+        "hits": 26,
+        "total": 75,
+        "rate": 0.3466666666666667
+      }
+    },
+    "candidate_coverage": {
+      "IoU@0.5": {
+        "hits": 68,
+        "total": 75,
+        "rate": 0.9066666666666666
+      },
+      "IoU@0.75": {
+        "hits": 39,
+        "total": 75,
+        "rate": 0.52
+      }
+    }
+  },
+  "optimized": {
+    "retrieval": {
+      "R@1": 0.04,
+      "R@5": 0.16,
+      "hits_at_1": 3,
+      "hits_at_5": 12
+    },
+    "grounding": {
+      "IoU@0.5": {
+        "hits": 47,
+        "total": 75,
+        "rate": 0.6266666666666667
+      },
+      "IoU@0.75": {
+        "hits": 44,
+        "total": 75,
+        "rate": 0.5866666666666667
+      }
+    },
+    "candidate_coverage": {
+      "IoU@0.5": {
+        "hits": 72,
+        "total": 75,
+        "rate": 0.96
+      },
+      "IoU@0.75": {
+        "hits": 69,
+        "total": 75,
+        "rate": 0.92
+      }
+    }
+  },
+  "baseline_weighted_score": 0.43333333333333335,
+  "optimized_weighted_score": 0.4706666666666667,
+  "extraction_seconds": 207.2
+}

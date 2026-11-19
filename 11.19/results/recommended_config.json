@@ -1,0 +1,16 @@
+{
+  "retrieval": {
+    "mode": "unchanged_first_round_whole_image",
+    "adapter_sha256": "9f176b9984b3de3c86da228ce5ad9e3e41dd0f7f52dd582ae8c71afea83d4279",
+    "adapter_path": "experiments/original_reference/adapter.safetensors"
+  },
+  "grounding": {
+    "mode": "context",
+    "adapted": true,
+    "threshold": 0.15,
+    "detector_weight": 0.1,
+    "region_weight": 0.5,
+    "box_scale": 0.9
+  },
+  "frozen_region_config_sha256": "edb976bc2bce0754317e4421e8f720e2f94a26dfc2a680b9cfb3e946a6da5511"
+}

@@ -1,0 +1,25 @@
+{
+  "retrieval": {
+    "mode": "tight",
+    "adapted": true,
+    "threshold": 0.15,
+    "detector_weight": 0.025,
+    "region_weight": 0.5,
+    "box_scale": 0.9
+  },
+  "dev_retrieval_weighted_contribution": 0.12962962962962962,
+  "grounding": {
+    "mode": "context",
+    "adapted": true,
+    "threshold": 0.15,
+    "detector_weight": 0.1,
+    "region_weight": 0.5,
+    "box_scale": 0.9
+  },
+  "dev_grounding_weighted_contribution": 0.40370370370370373,
+  "seed": 32,
+  "training_images": 49,
+  "train_archive_sha256": "ed77421609b3b35b8ac56e72d88adab0129096bef4fe3bfecd459caa55e5cf02",
+  "grid_size": 145,
+  "feature_cache_version": 1
+}

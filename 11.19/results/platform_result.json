@@ -1,0 +1,14 @@
+{
+  "source": "competition platform result screenshot provided by the user",
+  "submission_id_prefix": "77445b07",
+  "max_score": 1,
+  "total_score": 0.1420,
+  "total_score_display": "0.1420",
+  "R@1": 0.000,
+  "R@5": 0.000,
+  "Acc@0.5": 0.204,
+  "Acc@0.75": 0.197,
+  "elapsed_seconds": 211,
+  "displayed_metrics_are_rounded": true,
+  "screenshot": "platform_result.png"
+}

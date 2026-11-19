@@ -1,0 +1,59 @@
+{
+  "scope": "reviewed civilian passenger-aircraft holdout only",
+  "images": 47,
+  "queries": 75,
+  "device": "cpu",
+  "reference_adapter_sha256": "9f176b9984b3de3c86da228ce5ad9e3e41dd0f7f52dd582ae8c71afea83d4279",
+  "baseline": {
+    "retrieval": {
+      "R@1": 0.09333333333333334,
+      "R@5": 0.16,
+      "MRR": 0.15863387286663055,
+      "hits_at_1": 7,
+      "hits_at_5": 12
+    },
+    "grounding": {
+      "IoU@0.5": {
+        "hits": 45,
+        "total": 75,
+        "rate": 0.6
+      },
+      "IoU@0.75": {
+        "hits": 26,
+        "total": 75,
+        "rate": 0.3466666666666667
+      }
+    }
+  },
+  "recommended": {
+    "retrieval": {
+      "R@1": 0.09333333333333334,
+      "R@5": 0.16,
+      "MRR": 0.15863387286663055,
+      "hits_at_1": 7,
+      "hits_at_5": 12
+    },
+    "grounding": {
+      "IoU@0.5": {
+        "hits": 47,
+        "total": 75,
+        "rate": 0.6266666666666667
+      },
+      "IoU@0.75": {
+        "hits": 44,
+        "total": 75,
+        "rate": 0.5866666666666667
+      }
+    }
+  },
+  "baseline_weighted_score": 0.436,
+  "recommended_weighted_score": 0.476,
+  "regional_retrieval": {
+    "R@1": 0.04,
+    "R@5": 0.16,
+    "hits_at_1": 3,
+    "hits_at_5": 12
+  },
+  "decision": "Retain the existing retrieval checkpoint after a failed regional retrieval experiment; adopt v2 grounding.",
+  "note": "This is an engineering rollback after holdout observation, not a new independent holdout result."
+}

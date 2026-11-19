@@ -1,58 +1,66 @@
 # 遥感图像文搜图定位挑战赛
 
 > 赛期：2026-11-01 ~ 2026-12-14 23:59
-> 评测：总分 = 0.1×R@1 + 0.2×R@5 + 0.6×Acc@0.5 + 0.1×Acc@0.75
+> 评测：`总分 = 0.1×R@1 + 0.2×R@5 + 0.6×Acc@0.5 + 0.1×Acc@0.75`
 > 赛事主页：http://121.196.102.212/portal/track/1856158738000052230
+
+## 文档索引
+
+| 文档 | 内容 |
+|---|---|
+| [docs/01_赛题审核与比赛思路.md](docs/01_赛题审核与比赛思路.md) | 官方口径核对、参考材料逐条审核、数据实证、评分数学、技术路线、目标分档、风险 |
+| [docs/02_三人协作方案.md](docs/02_三人协作方案.md) | M/S/Z 分工、接口契约、25 天时间线、门禁、平台预算 |
+| [docs/03_自强5000_A100使用手册.md](docs/03_自强5000_A100使用手册.md) | 平台创建/计费/持久化/镜像源/断网绕行/长任务/关机止损/已知坑 |
+| [docs/04_后续开发注意事项.md](docs/04_后续开发注意事项.md) | 合规红线、数据纪律、评测口径、训练坑、交付 checklist |
 
 ## 任务
 
-- **任务 A 图像检索**：给定目标描述文本，从评测图库（81 张 1024×1024 遥感大图）中输出图像排序
-- **任务 B 区域定位（grounding）**：给定图像 + 描述文本，框出所描述目标
+- **任务 A 图像检索**：给定中文描述，从 81 张 1024×1024 评测图中返回降序 `image_id`（至少前 5）
+- **任务 B 区域定位**：给定 `image_id` + 中文描述，输出唯一框 + `category_id`
 
-## 数据
+## 数据（实测，非 README 声称值）
 
-`data/rs_grounding_train_v1/`
-
-| 项 | 数量 |
+| 项 | 数值 |
 |---|---|
-| train images / labels_json / labels_xml | 376 / 376 / 376 |
-| val images / labels_json / labels_xml | 51 / 51 / 51 |
-| 描述-框监督对 | 3095 |
+| train / val 图 | 376 / 51 |
+| 描述-框对 | **2716**（train 2525 + val 191；JSON 与 XML 一致） |
+| 类别（category_id） | 1 油罐、2 舰船、3 车辆、4 飞机 |
+| val 类别覆盖 | 飞机 123、舰船 36、油罐 32、**车辆 0** |
+| 车辆难度 | 1022 框 / 7 图，中位短边 **16px** |
+| 文本歧义 | 图内重复描述涉及 849 框；文本可分辨上限 **67.8%** |
 
-- 标注：labelme JSON（含 `description` 中文描述 + `points` 矩形框）、VOC XML（无描述）
-- 类别（category_id）：1 油罐、2 舰船、3 车辆、4 飞机
-- 原始官方包：`data/rs_grounding_train_v1.zip`（135M）
+> 数据包 README 写的「3095 条」与「两角点」均与文件不符：实测 2716 条，所有框为 **4 角点**。详见 `docs/01` §2.2。
 
-## 提交
+## 快速开始
 
-Docker 镜像包（tar/tar.gz，≤10GB），评测容器**断网**、独占 1×A100-80GB、限时 60 分钟。
+```bash
+# 数据完整性（源目录 -> 本项目 data/）
+python src/verify_data.py
 
+# 数据分布 / 材料对账 / 类别难度 / 歧义上限
+python src/analyze_dataset.py
+python src/audit_materials.py
+python src/difficulty_profile.py
+python src/ambiguity_analysis.py
 ```
-/input_path/                images + info.json + queries.json
-queries.json 的 type 字段：
-  retrieval  -> {"query_id", "type": "retrieval", "text"}
-  grounding  -> {"query_id", "type": "grounding", "image_id", "text"}
-/output_path/pred.json
-  retrieval  -> {"query_id", "type": "retrieval", "ranking": [image_id, ...]}
-  grounding  -> {"query_id", "type": "grounding", "image_id",
-                 "category_id": 1, "score": 0.9, "bbox": [x, y, w, h]}
-```
-
-依赖与权重必须打包进镜像；禁止使用评测集图像、运行时联网、硬编码答案。
 
 ## 目录
 
 ```
 rs_grounding_project/
-├── data/            # 数据集 + 官方 zip（不追踪大文件时按需 .gitignore）
-├── docs/            # 赛题说明（docx/pdf）
-├── src/             # 训练/推理代码
-├── submission/      # Dockerfile / run.py / weights
+├── data/                       # 官方数据（gitignore）
+├── docs/                       # 方案 / 手册 / 注意事项
+├── experiments/                # 实验台账（gitignore）
+├── reports/                    # leaderboard 与图表
+├── src/                        # 分析、检测、重排、检索、评测
+├── submission/                 # Dockerfile / run.py / weights
 └── README.md
 ```
 
-## 技术路线参考
+## 硬件
 
-- 检索：Chinese-CLIP / BLIP-2 图文相似度，图像侧可切片或多尺度
-- 定位：GroundingDINO / MDETR / OWL-ViT，或检测器 + 文本匹配两阶段
-- 微调：LoRA / 量化，3095 条描述-框对；可用 DIOR-R、RSICD 公开数据预训练
+| 环境 | 规格 | 用途 |
+|---|---|---|
+| 本地 WSL | RTX 5070 Ti Laptop 12GB（sm_120，驱动 617） | 快速迭代、小实验、可视化 |
+| 自强5000 | 1×A100-PCIE-40GB（sm_80，驱动 535，80 核时/卡时） | 全量训练、最终权重 |
+| 评测容器 | 1×A100-80GB，断网，60 分钟 | 提交评测 |

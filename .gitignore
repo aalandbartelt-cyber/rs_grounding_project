@@ -1,5 +1,13 @@
 # ===== 数据集（官方包 135M，超 GitHub 单文件 100MB 限制；本地保留，不进仓库）=====
-data/
+data/*
+!data/splits/
+data/splits/*
+!data/splits/*.json
+!data/splits/SHA256SUMS
+
+# ===== 实验中间产物 =====
+work/
+experiments/
 
 # ===== 提交产物（Docker 镜像包 ≤10GB）=====
 submission/weights/

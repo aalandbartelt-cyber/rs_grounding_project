@@ -1,0 +1,33 @@
+{
+  "clip": {
+    "model_id": "OFA-Sys/chinese-clip-vit-base-patch16",
+    "revision": "36e679e65c2a2fead755ae21162091293ad37834",
+    "directory": "chinese-clip-vit-base-patch16",
+    "weight_file": "model.safetensors",
+    "weight_sha256": "29cc0b2bcf6ff777f2e15742be92b110e4acbdb2068356e862c4637a4b15fe4f",
+    "files": [
+      "config.json",
+      "preprocessor_config.json",
+      "vocab.txt",
+      "model.safetensors"
+    ],
+    "source_weight_sha256": "7b7b583c210c867410bc6bdb8a55fe14eec62999e0a9ea31ff222dc501f9cfbe"
+  },
+  "dino": {
+    "model_id": "IDEA-Research/grounding-dino-tiny",
+    "revision": "a2bb814dd30d776dcf7e30523b00659f4f141c71",
+    "directory": "grounding-dino-tiny",
+    "weight_file": "model.safetensors",
+    "weight_sha256": "1a2412ef99bd74bcd3c2a246fa1e48581f8889a1300c9051974741314fc042f3",
+    "files": [
+      "config.json",
+      "preprocessor_config.json",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "special_tokens_map.json",
+      "added_tokens.json",
+      "vocab.txt",
+      "model.safetensors"
+    ]
+  }
+}

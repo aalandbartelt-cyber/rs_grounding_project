@@ -1,0 +1,34 @@
+{
+  "model": "OFA-Sys/chinese-clip-vit-base-patch16",
+  "model_revision": "36e679e65c2a2fead755ae21162091293ad37834",
+  "device": "cuda",
+  "data_split": "holdout",
+  "rank": 16,
+  "lr": 0.002,
+  "drift_weight": 0.25,
+  "seed": 32,
+  "train_images": 49,
+  "train_queries": 81,
+  "validation_images": 47,
+  "validation_queries": 75,
+  "validation_unique_texts": 27,
+  "trainable_parameters": 20480,
+  "epochs": 80,
+  "first_loss": 3.5440120697021484,
+  "last_loss": 1.9606595039367676,
+  "zero_shot": {
+    "R@1": 0.013333333333333334,
+    "R@5": 0.14666666666666667,
+    "MRR": 0.10020940750837326,
+    "hits_at_1": 1,
+    "hits_at_5": 11
+  },
+  "adapted": {
+    "R@1": 0.09333333333333334,
+    "R@5": 0.16,
+    "MRR": 0.16285668313503265,
+    "hits_at_1": 7,
+    "hits_at_5": 12
+  },
+  "elapsed_seconds": 4.27
+}

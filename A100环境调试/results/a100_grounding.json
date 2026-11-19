@@ -1,0 +1,35 @@
+{
+  "data_split": "holdout",
+  "images": 47,
+  "annotations": 75,
+  "empty_images": 0,
+  "device": "cuda",
+  "box_threshold": 0.25,
+  "text_threshold": 0.25,
+  "max_candidates": 20,
+  "top_box": {
+    "IoU@0.5": {
+      "hits": 45,
+      "total": 75,
+      "rate": 0.6
+    },
+    "IoU@0.75": {
+      "hits": 26,
+      "total": 75,
+      "rate": 0.3466666666666667
+    }
+  },
+  "candidate_coverage": {
+    "IoU@0.5": {
+      "hits": 68,
+      "total": 75,
+      "rate": 0.9066666666666666
+    },
+    "IoU@0.75": {
+      "hits": 39,
+      "total": 75,
+      "rate": 0.52
+    }
+  },
+  "elapsed_seconds": 12.05
+}

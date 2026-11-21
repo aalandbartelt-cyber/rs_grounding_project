@@ -1,0 +1,44 @@
+{
+  "version": "2.0.0",
+  "protocols": {
+    "dev4_81": {
+      "images": 81,
+      "query_images": 30,
+      "queries": 1224,
+      "objects_by_category": {
+        "1": 97,
+        "4": 41,
+        "2": 16,
+        "3": 458
+      },
+      "duplicate_text_diagnostic": {
+        "repeated_text_groups_across_query_images": 53,
+        "image_text_groups_with_multiple_target_objects": 84,
+        "text_comparison": "exact original string",
+        "text_only_single_answer_R1_ceiling": 0.6617647058823529,
+        "text_only_single_answer_R5_ceiling": 1.0,
+        "ceiling_scope": "For a deterministic retriever using text only; query_id and annotation order must not be used as model signals."
+      }
+    },
+    "official_val51_81": {
+      "images": 81,
+      "query_images": 51,
+      "queries": 382,
+      "objects_by_category": {
+        "2": 36,
+        "4": 123,
+        "1": 32
+      },
+      "duplicate_text_diagnostic": {
+        "repeated_text_groups_across_query_images": 14,
+        "image_text_groups_with_multiple_target_objects": 18,
+        "text_comparison": "exact original string",
+        "text_only_single_answer_R1_ceiling": 0.7382198952879581,
+        "text_only_single_answer_R5_ceiling": 0.9633507853403142,
+        "ceiling_scope": "For a deterministic retriever using text only; query_id and annotation order must not be used as model signals."
+      }
+    }
+  },
+  "train_images": 346,
+  "source_files_unchanged": true
+}

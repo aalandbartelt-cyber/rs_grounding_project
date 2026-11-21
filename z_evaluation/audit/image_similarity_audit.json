@@ -1,0 +1,16 @@
+{
+  "decoded_images": 427,
+  "decoded_pixel_duplicate_groups": [],
+  "cross_train_heldout_pixel_duplicate_groups": [],
+  "dhash_threshold": 5,
+  "near_duplicate_candidates": [
+    {
+      "a": "train/1028",
+      "b": "train/990",
+      "dhash_hamming_distance": 5,
+      "cross_train_heldout": false
+    }
+  ],
+  "cross_train_heldout_near_duplicate_candidates": [],
+  "scope": "Decoded-pixel equality and 64-bit horizontal dHash screening only. dHash similarity is not proof of duplication; crops, rotations and spatial overlap can be missed."
+}

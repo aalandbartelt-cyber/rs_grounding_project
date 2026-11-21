@@ -1,0 +1,242 @@
+[
+  {
+    "source_key": "train/1018",
+    "image_path": "train/images/1018.jpg",
+    "label_json_path": "train/labels_json/1018.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 15
+  },
+  {
+    "source_key": "train/1111",
+    "image_path": "train/images/1111.jpg",
+    "label_json_path": "train/labels_json/1111.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 5
+  },
+  {
+    "source_key": "train/1119",
+    "image_path": "train/images/1119.jpg",
+    "label_json_path": "train/labels_json/1119.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/1158",
+    "image_path": "train/images/1158.jpg",
+    "label_json_path": "train/labels_json/1158.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 4
+  },
+  {
+    "source_key": "train/1165",
+    "image_path": "train/images/1165.jpg",
+    "label_json_path": "train/labels_json/1165.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 4
+  },
+  {
+    "source_key": "train/121",
+    "image_path": "train/images/121.jpg",
+    "label_json_path": "train/labels_json/121.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 28
+  },
+  {
+    "source_key": "train/1226",
+    "image_path": "train/images/1226.jpg",
+    "label_json_path": "train/labels_json/1226.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "train/1247",
+    "image_path": "train/images/1247.jpg",
+    "label_json_path": "train/labels_json/1247.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 3
+  },
+  {
+    "source_key": "train/1255",
+    "image_path": "train/images/1255.jpg",
+    "label_json_path": "train/labels_json/1255.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 12
+  },
+  {
+    "source_key": "train/1281",
+    "image_path": "train/images/1281.jpg",
+    "label_json_path": "train/labels_json/1281.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 10
+  },
+  {
+    "source_key": "train/1342",
+    "image_path": "train/images/1342.jpg",
+    "label_json_path": "train/labels_json/1342.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 4
+  },
+  {
+    "source_key": "train/1358",
+    "image_path": "train/images/1358.jpg",
+    "label_json_path": "train/labels_json/1358.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/1365",
+    "image_path": "train/images/1365.jpg",
+    "label_json_path": "train/labels_json/1365.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 3
+  },
+  {
+    "source_key": "train/1383",
+    "image_path": "train/images/1383.jpg",
+    "label_json_path": "train/labels_json/1383.json",
+    "width": 832,
+    "height": 832,
+    "object_count": 2
+  },
+  {
+    "source_key": "train/1404",
+    "image_path": "train/images/1404.jpg",
+    "label_json_path": "train/labels_json/1404.json",
+    "width": 1280,
+    "height": 1280,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/1408",
+    "image_path": "train/images/1408.jpg",
+    "label_json_path": "train/labels_json/1408.json",
+    "width": 1280,
+    "height": 1280,
+    "object_count": 5
+  },
+  {
+    "source_key": "train/1431",
+    "image_path": "train/images/1431.jpg",
+    "label_json_path": "train/labels_json/1431.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 11
+  },
+  {
+    "source_key": "train/1432",
+    "image_path": "train/images/1432.jpg",
+    "label_json_path": "train/labels_json/1432.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 5
+  },
+  {
+    "source_key": "train/199",
+    "image_path": "train/images/199.jpg",
+    "label_json_path": "train/labels_json/199.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/233",
+    "image_path": "train/images/233.jpg",
+    "label_json_path": "train/labels_json/233.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/323",
+    "image_path": "train/images/323.jpg",
+    "label_json_path": "train/labels_json/323.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 157
+  },
+  {
+    "source_key": "train/324",
+    "image_path": "train/images/324.jpg",
+    "label_json_path": "train/labels_json/324.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 158
+  },
+  {
+    "source_key": "train/370",
+    "image_path": "train/images/370.jpg",
+    "label_json_path": "train/labels_json/370.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 143
+  },
+  {
+    "source_key": "train/904",
+    "image_path": "train/images/904.jpg",
+    "label_json_path": "train/labels_json/904.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/922",
+    "image_path": "train/images/922.jpg",
+    "label_json_path": "train/labels_json/922.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 3
+  },
+  {
+    "source_key": "train/944",
+    "image_path": "train/images/944.jpg",
+    "label_json_path": "train/labels_json/944.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/945",
+    "image_path": "train/images/945.jpg",
+    "label_json_path": "train/labels_json/945.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "train/969",
+    "image_path": "train/images/969.jpg",
+    "label_json_path": "train/labels_json/969.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 7
+  },
+  {
+    "source_key": "train/992",
+    "image_path": "train/images/992.jpg",
+    "label_json_path": "train/labels_json/992.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 8
+  },
+  {
+    "source_key": "train/993",
+    "image_path": "train/images/993.jpg",
+    "label_json_path": "train/labels_json/993.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 15
+  }
+]

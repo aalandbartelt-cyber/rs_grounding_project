@@ -1,0 +1,410 @@
+[
+  {
+    "source_key": "val/1047",
+    "image_path": "val/images/1047.jpg",
+    "label_json_path": "val/labels_json/1047.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1063",
+    "image_path": "val/images/1063.jpg",
+    "label_json_path": "val/labels_json/1063.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1066",
+    "image_path": "val/images/1066.jpg",
+    "label_json_path": "val/labels_json/1066.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1081",
+    "image_path": "val/images/1081.jpg",
+    "label_json_path": "val/labels_json/1081.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1117",
+    "image_path": "val/images/1117.jpg",
+    "label_json_path": "val/labels_json/1117.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1121",
+    "image_path": "val/images/1121.jpg",
+    "label_json_path": "val/labels_json/1121.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1143",
+    "image_path": "val/images/1143.jpg",
+    "label_json_path": "val/labels_json/1143.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1144",
+    "image_path": "val/images/1144.jpg",
+    "label_json_path": "val/labels_json/1144.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1153",
+    "image_path": "val/images/1153.jpg",
+    "label_json_path": "val/labels_json/1153.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1174",
+    "image_path": "val/images/1174.jpg",
+    "label_json_path": "val/labels_json/1174.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 3
+  },
+  {
+    "source_key": "val/1175",
+    "image_path": "val/images/1175.jpg",
+    "label_json_path": "val/labels_json/1175.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1176",
+    "image_path": "val/images/1176.jpg",
+    "label_json_path": "val/labels_json/1176.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 5
+  },
+  {
+    "source_key": "val/1187",
+    "image_path": "val/images/1187.jpg",
+    "label_json_path": "val/labels_json/1187.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1200",
+    "image_path": "val/images/1200.jpg",
+    "label_json_path": "val/labels_json/1200.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1205",
+    "image_path": "val/images/1205.jpg",
+    "label_json_path": "val/labels_json/1205.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/1219",
+    "image_path": "val/images/1219.jpg",
+    "label_json_path": "val/labels_json/1219.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 10
+  },
+  {
+    "source_key": "val/1224",
+    "image_path": "val/images/1224.jpg",
+    "label_json_path": "val/labels_json/1224.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 14
+  },
+  {
+    "source_key": "val/1227",
+    "image_path": "val/images/1227.jpg",
+    "label_json_path": "val/labels_json/1227.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1242",
+    "image_path": "val/images/1242.jpg",
+    "label_json_path": "val/labels_json/1242.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 8
+  },
+  {
+    "source_key": "val/1245",
+    "image_path": "val/images/1245.jpg",
+    "label_json_path": "val/labels_json/1245.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 12
+  },
+  {
+    "source_key": "val/1274",
+    "image_path": "val/images/1274.jpg",
+    "label_json_path": "val/labels_json/1274.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1278",
+    "image_path": "val/images/1278.jpg",
+    "label_json_path": "val/labels_json/1278.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 10
+  },
+  {
+    "source_key": "val/1297",
+    "image_path": "val/images/1297.jpg",
+    "label_json_path": "val/labels_json/1297.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/1362",
+    "image_path": "val/images/1362.jpg",
+    "label_json_path": "val/labels_json/1362.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 5
+  },
+  {
+    "source_key": "val/1394",
+    "image_path": "val/images/1394.jpg",
+    "label_json_path": "val/labels_json/1394.json",
+    "width": 1280,
+    "height": 1280,
+    "object_count": 9
+  },
+  {
+    "source_key": "val/1406",
+    "image_path": "val/images/1406.jpg",
+    "label_json_path": "val/labels_json/1406.json",
+    "width": 1280,
+    "height": 1280,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/197",
+    "image_path": "val/images/197.jpg",
+    "label_json_path": "val/labels_json/197.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/213",
+    "image_path": "val/images/213.jpg",
+    "label_json_path": "val/labels_json/213.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 3
+  },
+  {
+    "source_key": "val/217",
+    "image_path": "val/images/217.jpg",
+    "label_json_path": "val/labels_json/217.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/219",
+    "image_path": "val/images/219.jpg",
+    "label_json_path": "val/labels_json/219.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/223",
+    "image_path": "val/images/223.jpg",
+    "label_json_path": "val/labels_json/223.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/231",
+    "image_path": "val/images/231.jpg",
+    "label_json_path": "val/labels_json/231.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/237",
+    "image_path": "val/images/237.jpg",
+    "label_json_path": "val/labels_json/237.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/238",
+    "image_path": "val/images/238.jpg",
+    "label_json_path": "val/labels_json/238.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/240",
+    "image_path": "val/images/240.jpg",
+    "label_json_path": "val/labels_json/240.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 9
+  },
+  {
+    "source_key": "val/256",
+    "image_path": "val/images/256.jpg",
+    "label_json_path": "val/labels_json/256.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/279",
+    "image_path": "val/images/279.jpg",
+    "label_json_path": "val/labels_json/279.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 14
+  },
+  {
+    "source_key": "val/312",
+    "image_path": "val/images/312.jpg",
+    "label_json_path": "val/labels_json/312.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 6
+  },
+  {
+    "source_key": "val/314",
+    "image_path": "val/images/314.jpg",
+    "label_json_path": "val/labels_json/314.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 9
+  },
+  {
+    "source_key": "val/317",
+    "image_path": "val/images/317.jpg",
+    "label_json_path": "val/labels_json/317.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 4
+  },
+  {
+    "source_key": "val/905",
+    "image_path": "val/images/905.jpg",
+    "label_json_path": "val/labels_json/905.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/910",
+    "image_path": "val/images/910.jpg",
+    "label_json_path": "val/labels_json/910.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/919",
+    "image_path": "val/images/919.jpg",
+    "label_json_path": "val/labels_json/919.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 4
+  },
+  {
+    "source_key": "val/926",
+    "image_path": "val/images/926.jpg",
+    "label_json_path": "val/labels_json/926.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/932",
+    "image_path": "val/images/932.jpg",
+    "label_json_path": "val/labels_json/932.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 3
+  },
+  {
+    "source_key": "val/939",
+    "image_path": "val/images/939.jpg",
+    "label_json_path": "val/labels_json/939.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 6
+  },
+  {
+    "source_key": "val/942",
+    "image_path": "val/images/942.jpg",
+    "label_json_path": "val/labels_json/942.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/952",
+    "image_path": "val/images/952.jpg",
+    "label_json_path": "val/labels_json/952.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 2
+  },
+  {
+    "source_key": "val/957",
+    "image_path": "val/images/957.jpg",
+    "label_json_path": "val/labels_json/957.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 3
+  },
+  {
+    "source_key": "val/989",
+    "image_path": "val/images/989.jpg",
+    "label_json_path": "val/labels_json/989.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 1
+  },
+  {
+    "source_key": "val/994",
+    "image_path": "val/images/994.jpg",
+    "label_json_path": "val/labels_json/994.json",
+    "width": 1024,
+    "height": 1024,
+    "object_count": 10
+  }
+]

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+private/
+protocols/
+baselines/
+runs/
+generated/
+audit/data_audit.json
+*.jpg
+*.jpeg
+*.png
+*.pt
+*.pth
+*.safetensors
+*.zip
+*.tar
+*.tar.gz

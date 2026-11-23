@@ -1,0 +1,7 @@
+# CUDA torch/torchvision are installed separately by bootstrap.ps1.
+transformers==4.51.3
+huggingface-hub==0.30.2
+safetensors==0.5.3
+numpy==2.2.6
+Pillow==11.2.1
+accelerate==1.6.0

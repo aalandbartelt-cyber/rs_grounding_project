@@ -1,0 +1,30 @@
+{
+  "status": "template_only_no_training_performed",
+  "experiment_id": "replace_with_unique_run_name",
+  "seed": 20261123,
+  "data_protocol": "dev4_81",
+  "training_manifest": "z_evaluation/splits/manifest.json",
+  "source_train_images": 346,
+  "daily_dev_query_images": 30,
+  "supplementary_val_images": 51,
+  "model": {"repository": null, "revision": null, "weights_sha256": null, "adapter": null},
+  "training": {
+    "optimizer_updates": null,
+    "effective_batch_size": null,
+    "input_resolution": null,
+    "learning_rate": null,
+    "precision": null,
+    "original_source_sampling": true,
+    "augmentation_operations": ["original"],
+    "joint_text_augmentation_requires_review": true,
+    "notes": "Set equal or documented training budgets; extra variants do not justify extra optimizer updates in a fair comparison"
+  },
+  "inference": {
+    "candidate_threshold": null,
+    "max_candidates_per_image": null,
+    "tiled_inference": false,
+    "checkpoint_cpu_memory_budget_mib": 8192
+  },
+  "required_outputs": ["pred.json", "run.json", "candidates.json when supported", "diagnostics.json", "training_log", "weights_hash"],
+  "primary_score_weights": {"R1": 0.1, "R5": 0.2, "Acc05": 0.6, "Acc75": 0.1}
+}

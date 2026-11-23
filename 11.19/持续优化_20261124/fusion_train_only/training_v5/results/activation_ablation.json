@@ -1,0 +1,9 @@
+{
+  "checkpoint_sha256": "b0c2c660e917a7235f7aec346556d2696cbf419249cf75bcd8c17b822b76428c",
+  "activation": "QuickGELU",
+  "visual_and_text_activation_matched": true,
+  "query_prompts_sha256": "68badc5189b0b8f08de1106266a8fdd82b5ab761cc19826698a54bd821802447",
+  "source": "Official README initializes one GeoRSCLIP variant from openai; this L/336 activation choice remains an experimental ablation.",
+  "official_validation_or_test_used": false,
+  "all_data_from_original_training_whitelist": true
+}

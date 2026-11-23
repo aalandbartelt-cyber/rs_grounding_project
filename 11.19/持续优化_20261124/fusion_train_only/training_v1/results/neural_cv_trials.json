@@ -1,0 +1,946 @@
+[
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.37592592592592594
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.41851851851851857
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.4166666666666667
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.40370370370370373
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.37962962962962954
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.37592592592592594
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.42037037037037045
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.41851851851851857
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.3814814814814814
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.37407407407407406
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.41851851851851857
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.4166666666666667
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.40370370370370373
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.3814814814814814
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.37592592592592594
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.42037037037037045
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.41851851851851857
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.3814814814814814
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.3907407407407407
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.4314814814814814
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.4314814814814814
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.412962962962963
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.39629629629629626
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.35555555555555557
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.39629629629629626
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.39629629629629626
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.37962962962962965
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.3611111111111111
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.37592592592592594
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.41851851851851857
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.41851851851851857
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.40370370370370373
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.387037037037037
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.37592592592592594
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.42037037037037045
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.42037037037037045
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.387037037037037
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.37037037037037035
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.4222222222222222
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.4240740740740741
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.412962962962963
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.4074074074074074
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.37037037037037035
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.42037037037037045
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.4222222222222222
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.4111111111111111
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.37037037037037035
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.4222222222222222
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.4240740740740741
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.412962962962963
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.4074074074074074
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.37037037037037035
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.42037037037037045
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.4222222222222222
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.4111111111111111
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.3648148148148148
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.40925925925925927
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.37777777777777777
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.3425925925925926
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.3833333333333333
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.38148148148148153
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.38148148148148153
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.35000000000000003
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.85,
+    "cv_score": 0.3648148148148148
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 0.95,
+    "cv_score": 0.40925925925925927
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.0,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.05,
+    "cv_score": 0.4055555555555555
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "scale": 1.15,
+    "cv_score": 0.37592592592592594
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.85,
+    "cv_score": 0.35555555555555557
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 0.95,
+    "cv_score": 0.39814814814814814
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.0,
+    "cv_score": 0.39629629629629626
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.05,
+    "cv_score": 0.39629629629629626
+  },
+  {
+    "task": "grounding",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "scale": 1.15,
+    "cv_score": 0.37407407407407406
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "cv_score": 0.1425925925925926
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "cv_score": 0.1462962962962963
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "cv_score": 0.1425925925925926
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "cv_score": 0.15000000000000002
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "cv_score": 0.1277777777777778
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "cv_score": 0.12962962962962965
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "cv_score": 0.12962962962962962
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "scalar",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "cv_score": 0.1277777777777778
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 60,
+    "cv_score": 0.15
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.01,
+    "epochs": 180,
+    "cv_score": 0.15
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 60,
+    "cv_score": 0.15
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 0,
+    "decay": 0.3,
+    "epochs": 180,
+    "cv_score": 0.15
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 60,
+    "cv_score": 0.11111111111111113
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.01,
+    "epochs": 180,
+    "cv_score": 0.10740740740740742
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 60,
+    "cv_score": 0.11851851851851852
+  },
+  {
+    "task": "retrieval",
+    "family": "neural",
+    "kind": "conditioned",
+    "hidden": 16,
+    "decay": 0.3,
+    "epochs": 180,
+    "cv_score": 0.10925925925925926
+  }
+]

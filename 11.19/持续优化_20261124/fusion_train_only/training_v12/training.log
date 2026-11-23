@@ -1,0 +1,37 @@
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV literal fold 1/3: [0.47619047619047616, 0.5285714285714286, 0.5285714285714286]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV literal fold 2/3: [0.4882352941176471, 0.5176470588235295, 0.5176470588235295]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV literal fold 3/3: [0.30000000000000004, 0.30625, 0.30625]
+Prompt LoRA mode literal: best grouped-CV grounding 0.4593
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV concise fold 1/3: [0.41904761904761906, 0.46190476190476193, 0.46190476190476193]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV concise fold 2/3: [0.4882352941176471, 0.5176470588235295, 0.5176470588235295]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV concise fold 3/3: [0.30000000000000004, 0.30625, 0.30625]
+Prompt LoRA mode concise: best grouped-CV grounding 0.4593
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV attribute fold 1/3: [0.44761904761904764, 0.49523809523809526, 0.49523809523809526]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV attribute fold 2/3: [0.4882352941176471, 0.5176470588235295, 0.5176470588235295]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV attribute fold 3/3: [0.30000000000000004, 0.30625, 0.30625]
+Prompt LoRA mode attribute: best grouped-CV grounding 0.4593
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV ensemble fold 1/3: [0.44761904761904764, 0.49523809523809526, 0.49523809523809526]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV ensemble fold 2/3: [0.4882352941176471, 0.5176470588235295, 0.5176470588235295]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV ensemble fold 3/3: [0.30000000000000004, 0.30625, 0.30625]
+Prompt LoRA mode ensemble: best grouped-CV grounding 0.4593
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV centered fold 1/3: [0.44761904761904764, 0.49523809523809526, 0.49523809523809526]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV centered fold 2/3: [0.4882352941176471, 0.5176470588235295, 0.5176470588235295]
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Prompt LoRA CV centered fold 3/3: [0.3375, 0.34375, 0.34375]
+Prompt LoRA mode centered: best grouped-CV grounding 0.4593
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Query-prompt-selected LoRA with v2 retrieval: {'images': 16, 'queries_per_task': 27, 'counts': {'R@1': 5, 'R@5': 15, 'Acc@0.5': 16, 'Acc@0.75': 11}, 'R@1': 0.18518518518518517, 'R@5': 0.5555555555555556, 'Acc@0.5': 0.5925925925925926, 'Acc@0.75': 0.4074074074074074, 'score_out_of_1': 0.5259259259259259}

@@ -1,0 +1,33 @@
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.21s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.54s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.64s/it]
+Classifying 532 distinct predicted aircraft regions
+Aircraft attribute evidence 20/532
+Aircraft attribute evidence 40/532
+Aircraft attribute evidence 60/532
+Aircraft attribute evidence 80/532
+Aircraft attribute evidence 100/532
+Aircraft attribute evidence 120/532
+Aircraft attribute evidence 140/532
+Aircraft attribute evidence 160/532
+Aircraft attribute evidence 180/532
+Aircraft attribute evidence 200/532
+Aircraft attribute evidence 220/532
+Aircraft attribute evidence 240/532
+Aircraft attribute evidence 260/532
+Aircraft attribute evidence 280/532
+Aircraft attribute evidence 300/532
+Aircraft attribute evidence 320/532
+Aircraft attribute evidence 340/532
+Aircraft attribute evidence 360/532
+Aircraft attribute evidence 380/532
+Aircraft attribute evidence 400/532
+Aircraft attribute evidence 420/532
+Aircraft attribute evidence 440/532
+Aircraft attribute evidence 460/532
+Aircraft attribute evidence 480/532
+Aircraft attribute evidence 500/532
+Aircraft attribute evidence 520/532
+Aircraft attribute evidence 532/532

@@ -1,0 +1,11 @@
+Complete-candidate retrieval CV ridge 0.01: best 0.1722
+Complete-candidate retrieval CV ridge 0.1: best 0.1722
+Complete-candidate retrieval CV ridge 1.0: best 0.1722
+Complete-candidate retrieval CV ridge 10.0: best 0.1722
+Complete-candidate retrieval CV ridge 100.0: best 0.1722
+Complete-candidate retrieval CV extra 2: best 0.1722
+Complete-candidate retrieval CV extra 4: best 0.1722
+Complete-candidate retrieval CV extra 6: best 0.1722
+Complete-candidate retrieval CV boost 2: best 0.1722
+Complete-candidate retrieval CV boost 3: best 0.1722
+Complete-candidate aggregation internal dev: {'images': 16, 'queries_per_task': 27, 'counts': {'R@1': 3, 'R@5': 13, 'Acc@0.5': 16, 'Acc@0.75': 10}, 'R@1': 0.1111111111111111, 'R@5': 0.48148148148148145, 'Acc@0.5': 0.5925925925925926, 'Acc@0.75': 0.37037037037037035, 'score_out_of_1': 0.5}

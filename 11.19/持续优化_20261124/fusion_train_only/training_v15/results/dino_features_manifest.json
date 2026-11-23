@@ -1,0 +1,19 @@
+{
+  "source": "facebook/dinov2-base",
+  "license": "Apache-2.0",
+  "revision": "f9e44c814b77203eaa57a6bdbbd535f21ede1415",
+  "weights_sha256": "d73036b56966966d07975d696bde331762f37297e2f095de8cea0040c3aa0841",
+  "features_sha256": "07268dc105a5904f747cc8f517c96960b11a5295d7da53be6ce00a2fd3659f25",
+  "code_sha256": "c548ed4ea4506fc47f9bfc5bfb09ca96f528a705bebc8605002cac028a0e017a",
+  "source_images": "49 whitelisted original-train images only",
+  "official_validation_or_test_used": false,
+  "internal_dev_images_used_for_unlabeled_feature_extraction": true,
+  "ground_truth_used_during_feature_extraction": false,
+  "candidate_source": "frozen predicted boxes from the original-train feature cache",
+  "input_size": 518,
+  "views": [
+    "tight",
+    "1.5x context"
+  ],
+  "feature_width_per_candidate": 3072
+}

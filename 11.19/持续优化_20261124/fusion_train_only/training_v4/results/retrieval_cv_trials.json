@@ -1,0 +1,422 @@
+[
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "exact",
+    "amount": 0.03,
+    "cv_retrieval": 0.11481481481481483
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "exact",
+    "amount": 0.1,
+    "cv_retrieval": 0.11296296296296297
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "exact",
+    "amount": 0.3,
+    "cv_retrieval": 0.11296296296296297
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "exact",
+    "amount": 1.0,
+    "cv_retrieval": 0.10925925925925926
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "exact",
+    "amount": 3.0,
+    "cv_retrieval": 0.10925925925925926
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "exact",
+    "amount": 0.03,
+    "cv_retrieval": 0.1240740740740741
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "exact",
+    "amount": 0.1,
+    "cv_retrieval": 0.11481481481481481
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "exact",
+    "amount": 0.3,
+    "cv_retrieval": 0.11851851851851852
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "exact",
+    "amount": 1.0,
+    "cv_retrieval": 0.12592592592592594
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "exact",
+    "amount": 3.0,
+    "cv_retrieval": 0.12962962962962962
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "exact",
+    "amount": 0.03,
+    "cv_retrieval": 0.12592592592592594
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "exact",
+    "amount": 0.1,
+    "cv_retrieval": 0.14814814814814814
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "exact",
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "exact",
+    "amount": 1.0,
+    "cv_retrieval": 0.15185185185185188
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "exact",
+    "amount": 3.0,
+    "cv_retrieval": 0.15555555555555556
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "exact",
+    "amount": 0.03,
+    "cv_retrieval": 0.12962962962962965
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "exact",
+    "amount": 0.1,
+    "cv_retrieval": 0.1388888888888889
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "exact",
+    "amount": 0.3,
+    "cv_retrieval": 0.1592592592592593
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "exact",
+    "amount": 1.0,
+    "cv_retrieval": 0.16296296296296298
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "exact",
+    "amount": 3.0,
+    "cv_retrieval": 0.16296296296296298
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "exact",
+    "amount": 0.03,
+    "cv_retrieval": 0.12592592592592594
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "exact",
+    "amount": 0.1,
+    "cv_retrieval": 0.1388888888888889
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "exact",
+    "amount": 0.3,
+    "cv_retrieval": 0.14814814814814814
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "exact",
+    "amount": 1.0,
+    "cv_retrieval": 0.1592592592592593
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "exact",
+    "amount": 3.0,
+    "cv_retrieval": 0.16296296296296298
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "exact",
+    "amount": 0.03,
+    "cv_retrieval": 0.1240740740740741
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "exact",
+    "amount": 0.1,
+    "cv_retrieval": 0.1425925925925926
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "exact",
+    "amount": 0.3,
+    "cv_retrieval": 0.14444444444444446
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "exact",
+    "amount": 1.0,
+    "cv_retrieval": 0.16111111111111112
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "exact",
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "semantic",
+    "amount": 0.03,
+    "cv_retrieval": 0.13703703703703704
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "semantic",
+    "amount": 0.1,
+    "cv_retrieval": 0.1277777777777778
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "semantic",
+    "amount": 0.3,
+    "cv_retrieval": 0.1314814814814815
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "semantic",
+    "amount": 1.0,
+    "cv_retrieval": 0.1314814814814815
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.01,
+    "target": "semantic",
+    "amount": 3.0,
+    "cv_retrieval": 0.12962962962962962
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "semantic",
+    "amount": 0.03,
+    "cv_retrieval": 0.16296296296296298
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "semantic",
+    "amount": 0.1,
+    "cv_retrieval": 0.16296296296296298
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "semantic",
+    "amount": 0.3,
+    "cv_retrieval": 0.15185185185185188
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "semantic",
+    "amount": 1.0,
+    "cv_retrieval": 0.15185185185185188
+  },
+  {
+    "family": "ridge",
+    "alpha": 0.1,
+    "target": "semantic",
+    "amount": 3.0,
+    "cv_retrieval": 0.15185185185185188
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "semantic",
+    "amount": 0.03,
+    "cv_retrieval": 0.15000000000000002
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "semantic",
+    "amount": 0.1,
+    "cv_retrieval": 0.16481481481481483
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "semantic",
+    "amount": 0.3,
+    "cv_retrieval": 0.16481481481481483
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "semantic",
+    "amount": 1.0,
+    "cv_retrieval": 0.16851851851851854
+  },
+  {
+    "family": "ridge",
+    "alpha": 1.0,
+    "target": "semantic",
+    "amount": 3.0,
+    "cv_retrieval": 0.16481481481481483
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "semantic",
+    "amount": 0.03,
+    "cv_retrieval": 0.15000000000000002
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "semantic",
+    "amount": 0.1,
+    "cv_retrieval": 0.15925925925925924
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "semantic",
+    "amount": 0.3,
+    "cv_retrieval": 0.16111111111111112
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "semantic",
+    "amount": 1.0,
+    "cv_retrieval": 0.16666666666666666
+  },
+  {
+    "family": "ridge",
+    "alpha": 10.0,
+    "target": "semantic",
+    "amount": 3.0,
+    "cv_retrieval": 0.16666666666666666
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "semantic",
+    "amount": 0.03,
+    "cv_retrieval": 0.1388888888888889
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "semantic",
+    "amount": 0.1,
+    "cv_retrieval": 0.15555555555555556
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "semantic",
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "semantic",
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074
+  },
+  {
+    "family": "extra",
+    "depth": 2,
+    "target": "semantic",
+    "amount": 3.0,
+    "cv_retrieval": 0.1537037037037037
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "semantic",
+    "amount": 0.03,
+    "cv_retrieval": 0.1537037037037037
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "semantic",
+    "amount": 0.1,
+    "cv_retrieval": 0.1574074074074074
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "semantic",
+    "amount": 0.3,
+    "cv_retrieval": 0.1611111111111111
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "semantic",
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074
+  },
+  {
+    "family": "extra",
+    "depth": 4,
+    "target": "semantic",
+    "amount": 3.0,
+    "cv_retrieval": 0.1537037037037037
+  }
+]

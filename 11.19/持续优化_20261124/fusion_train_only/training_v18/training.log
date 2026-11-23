@@ -1,0 +1,27 @@
+SigLIP2 grounding 1/19: best fit CV 0.4852
+SigLIP2 grounding 2/19: best fit CV 0.4852
+SigLIP2 grounding 3/19: best fit CV 0.4852
+SigLIP2 grounding 4/19: best fit CV 0.4852
+SigLIP2 grounding 5/19: best fit CV 0.4852
+SigLIP2 grounding 6/19: best fit CV 0.4852
+SigLIP2 grounding 7/19: best fit CV 0.4852
+SigLIP2 grounding 8/19: best fit CV 0.4852
+SigLIP2 grounding 9/19: best fit CV 0.4852
+SigLIP2 grounding 10/19: best fit CV 0.4852
+SigLIP2 grounding 11/19: best fit CV 0.4852
+SigLIP2 grounding 12/19: best fit CV 0.4852
+SigLIP2 grounding 13/19: best fit CV 0.4852
+SigLIP2 grounding 14/19: best fit CV 0.4852
+SigLIP2 grounding 15/19: best fit CV 0.4852
+SigLIP2 grounding 16/19: best fit CV 0.4852
+SigLIP2 grounding 17/19: best fit CV 0.4852
+SigLIP2 grounding 18/19: best fit CV 0.4852
+SigLIP2 grounding 19/19: best fit CV 0.4852
+SigLIP2 retrieval {'family': 'ridge', 'alpha': 0.01}: best fit CV 0.1667
+SigLIP2 retrieval {'family': 'ridge', 'alpha': 0.1}: best fit CV 0.1667
+SigLIP2 retrieval {'family': 'ridge', 'alpha': 1.0}: best fit CV 0.1667
+SigLIP2 retrieval {'family': 'ridge', 'alpha': 10.0}: best fit CV 0.1667
+SigLIP2 retrieval {'family': 'ridge', 'alpha': 100.0}: best fit CV 0.1667
+SigLIP2 retrieval {'family': 'extra', 'depth': 2}: best fit CV 0.1667
+SigLIP2 retrieval {'family': 'extra', 'depth': 4}: best fit CV 0.1667
+SigLIP2 did not beat fit-only baselines; retained current best.

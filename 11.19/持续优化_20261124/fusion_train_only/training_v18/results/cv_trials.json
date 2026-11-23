@@ -1,0 +1,9086 @@
+{
+  "grounding": [
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.4428571428571429,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4055555555555555,
+      "fold_scores": [
+        0.44761904761904764,
+        0.41764705882352937,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4352941176470588,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4352941176470588,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4235294117647058,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.3888888888888889,
+      "fold_scores": [
+        0.40476190476190477,
+        0.41764705882352937,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.40185185185185185,
+      "fold_scores": [
+        0.42857142857142855,
+        0.4294117647058823,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.40185185185185185,
+      "fold_scores": [
+        0.42857142857142855,
+        0.4294117647058823,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.37222222222222223,
+      "fold_scores": [
+        0.41904761904761906,
+        0.38235294117647056,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.3648148148148148,
+      "fold_scores": [
+        0.40476190476190477,
+        0.38235294117647056,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.37777777777777777,
+      "fold_scores": [
+        0.42857142857142855,
+        0.3941176470588235,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.37777777777777777,
+      "fold_scores": [
+        0.42857142857142855,
+        0.3941176470588235,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.34814814814814815,
+      "fold_scores": [
+        0.41904761904761906,
+        0.34705882352941175,
+        0.25625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.3648148148148148,
+      "fold_scores": [
+        0.40476190476190477,
+        0.38235294117647056,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.37777777777777777,
+      "fold_scores": [
+        0.42857142857142855,
+        0.3941176470588235,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.37592592592592594,
+      "fold_scores": [
+        0.42857142857142855,
+        0.3941176470588235,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "chinese",
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.34629629629629627,
+      "fold_scores": [
+        0.41904761904761906,
+        0.34705882352941175,
+        0.24999999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4092592592592592,
+      "fold_scores": [
+        0.4619047619047619,
+        0.41764705882352937,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4222222222222222,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4235294117647058,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4074074074074074,
+      "fold_scores": [
+        0.48571428571428565,
+        0.4235294117647058,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.3925925925925926,
+      "fold_scores": [
+        0.44761904761904764,
+        0.38235294117647056,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.39814814814814814,
+      "fold_scores": [
+        0.46190476190476193,
+        0.388235294117647,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.3962962962962963,
+      "fold_scores": [
+        0.46190476190476193,
+        0.38235294117647056,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.38148148148148153,
+      "fold_scores": [
+        0.4523809523809524,
+        0.38235294117647056,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.39444444444444443,
+      "fold_scores": [
+        0.44761904761904764,
+        0.388235294117647,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.39814814814814814,
+      "fold_scores": [
+        0.46190476190476193,
+        0.388235294117647,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.3962962962962963,
+      "fold_scores": [
+        0.46190476190476193,
+        0.38235294117647056,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.37962962962962965,
+      "fold_scores": [
+        0.4523809523809524,
+        0.3764705882352941,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.38148148148148153,
+      "fold_scores": [
+        0.4428571428571429,
+        0.35294117647058826,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.3851851851851852,
+      "fold_scores": [
+        0.4571428571428572,
+        0.35294117647058826,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.3851851851851852,
+      "fold_scores": [
+        0.46190476190476193,
+        0.34705882352941175,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "concise",
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.36851851851851847,
+      "fold_scores": [
+        0.4523809523809524,
+        0.3411764705882353,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.40370370370370373,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.26249999999999996
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42037037037037034,
+      "fold_scores": [
+        0.45714285714285713,
+        0.4529411764705882,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.40370370370370373,
+      "fold_scores": [
+        0.43809523809523815,
+        0.4235294117647058,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.41111111111111115,
+      "fold_scores": [
+        0.4571428571428572,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.46190476190476193,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443,
+      "fold_scores": [
+        0.4523809523809524,
+        0.41764705882352937,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.40370370370370373,
+      "fold_scores": [
+        0.43809523809523815,
+        0.4235294117647058,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.41111111111111115,
+      "fold_scores": [
+        0.4571428571428572,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.46190476190476193,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443,
+      "fold_scores": [
+        0.4523809523809524,
+        0.41764705882352937,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.3888888888888889,
+      "fold_scores": [
+        0.43809523809523815,
+        0.38235294117647056,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.39814814814814814,
+      "fold_scores": [
+        0.4571428571428572,
+        0.3941176470588235,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4,
+      "fold_scores": [
+        0.46190476190476193,
+        0.3941176470588235,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "zero_shot",
+      "mode": "ensemble",
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.3833333333333333,
+      "fold_scores": [
+        0.4523809523809524,
+        0.388235294117647,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4296296296296297,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.48235294117647054,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4592592592592592,
+      "fold_scores": [
+        0.5,
+        0.5117647058823529,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074,
+      "fold_scores": [
+        0.5,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.5,
+        0.46470588235294114,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.47058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.5,
+        0.48235294117647054,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4296296296296297,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.40370370370370373,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.49523809523809526,
+        0.388235294117647,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.47058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.5,
+        0.48235294117647054,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.40370370370370373,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.49523809523809526,
+        0.388235294117647,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.40370370370370373,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.49523809523809526,
+        0.388235294117647,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44629629629629625,
+      "fold_scores": [
+        0.5,
+        0.4705882352941176,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.5,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.5,
+        0.4294117647058823,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.40370370370370373,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4523809523809524,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45185185185185184,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4222222222222222,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4222222222222222,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.45714285714285713,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.44761904761904764,
+        0.48235294117647054,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45185185185185184,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.43703703703703706,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074,
+      "fold_scores": [
+        0.5,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.5,
+        0.5117647058823529,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.5,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.40185185185185185,
+      "fold_scores": [
+        0.4523809523809524,
+        0.4058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4,
+      "fold_scores": [
+        0.4904761904761905,
+        0.388235294117647,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4111111111111111,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4294117647058823,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.4523809523809524,
+        0.4411764705882352,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44999999999999996,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.45714285714285713,
+        0.4411764705882352,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.4523809523809524,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.44259259259259265,
+      "fold_scores": [
+        0.4714285714285714,
+        0.511764705882353,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.46111111111111114,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5470588235294118,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.46111111111111114,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5470588235294118,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "scalar",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.48571428571428565,
+        0.5058823529411764,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.5,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.5,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.5,
+        0.4235294117647058,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44629629629629625,
+      "fold_scores": [
+        0.5,
+        0.4705882352941176,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.5,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.5,
+        0.4294117647058823,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.5,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.47058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.5,
+        0.48235294117647054,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.35
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45185185185185184,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45185185185185184,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4222222222222222,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.45714285714285713,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.437037037037037,
+      "fold_scores": [
+        0.45714285714285713,
+        0.4764705882352941,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.4428571428571429,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42407407407407405,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45185185185185184,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45185185185185184,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42037037037037034,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.4714285714285714,
+        0.48235294117647054,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.31875
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "iou",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41851851851851846,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.28125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.4523809523809524,
+        0.44705882352941173,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.43703703703703706,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.40925925925925927,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4235294117647058,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4523809523809524,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.5,
+        0.5117647058823529,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037,
+      "fold_scores": [
+        0.5,
+        0.5117647058823529,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4523809523809524,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074075,
+      "fold_scores": [
+        0.5,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4764705882352941,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.41111111111111115,
+      "fold_scores": [
+        0.41904761904761906,
+        0.47058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.46190476190476193,
+        0.5176470588235295,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444,
+      "fold_scores": [
+        0.4666666666666667,
+        0.5176470588235295,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.01,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.46190476190476193,
+        0.48235294117647054,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4294117647058823,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4,
+      "fold_scores": [
+        0.4904761904761905,
+        0.388235294117647,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4037037037037037,
+      "fold_scores": [
+        0.45714285714285713,
+        0.4058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4294117647058823,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42592592592592593,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39814814814814814,
+      "fold_scores": [
+        0.48571428571428565,
+        0.388235294117647,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4166666666666667,
+      "fold_scores": [
+        0.4619047619047619,
+        0.4411764705882352,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4111111111111111,
+      "fold_scores": [
+        0.48571428571428565,
+        0.4294117647058823,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.42777777777777776,
+      "fold_scores": [
+        0.4619047619047619,
+        0.4411764705882352,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44999999999999996,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 0.1,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.4294117647058823,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4277777777777778,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4882352941176471,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555556,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5117647058823529,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.4428571428571429,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4111111111111111,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.43703703703703706,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.43703703703703706,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4111111111111111,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4235294117647058,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.29375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4611111111111111,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.36874999999999997
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.31875
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 1.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41851851851851846,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.28125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.9,
+      "cv_grounding": 0.4148148148148148,
+      "fold_scores": [
+        0.44761904761904764,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.9,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.4428571428571429,
+        0.44705882352941173,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926,
+      "fold_scores": [
+        0.49523809523809526,
+        0.4705882352941176,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.9,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.44761904761904764,
+        0.4411764705882352,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.4904761904761905,
+        0.46470588235294114,
+        0.34375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889,
+      "fold_scores": [
+        0.49523809523809526,
+        0.46470588235294114,
+        0.3375
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963,
+      "fold_scores": [
+        0.4904761904761905,
+        0.4235294117647058,
+        0.30000000000000004
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4314814814814815,
+      "fold_scores": [
+        0.4714285714285714,
+        0.4764705882352941,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42037037037037034,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.4714285714285714,
+        0.48235294117647054,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44814814814814813,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 4.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42037037037037034,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.28750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.9,
+      "cv_grounding": 0.4333333333333333,
+      "fold_scores": [
+        0.4714285714285714,
+        0.48235294117647054,
+        0.33125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.4904761904761905,
+        0.5058823529411764,
+        0.325
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963,
+      "fold_scores": [
+        0.49523809523809526,
+        0.5058823529411764,
+        0.31875
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "method": "ridge",
+      "features": "interaction",
+      "target": "utility",
+      "alpha": 10.0,
+      "amount": 16.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41851851851851846,
+      "fold_scores": [
+        0.48571428571428565,
+        0.46470588235294114,
+        0.28125
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    }
+  ],
+  "retrieval": [
+    {
+      "family": "ridge",
+      "alpha": 0.01,
+      "amount": 0.03,
+      "cv_retrieval": 0.10925925925925926,
+      "fold_scores": [
+        0.05714285714285715,
+        0.1,
+        0.18750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.01,
+      "amount": 0.1,
+      "cv_retrieval": 0.10925925925925926,
+      "fold_scores": [
+        0.08095238095238096,
+        0.07058823529411765,
+        0.18750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.01,
+      "amount": 0.3,
+      "cv_retrieval": 0.12037037037037036,
+      "fold_scores": [
+        0.08095238095238096,
+        0.09411764705882353,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.01,
+      "amount": 1.0,
+      "cv_retrieval": 0.12222222222222223,
+      "fold_scores": [
+        0.08095238095238096,
+        0.09411764705882353,
+        0.20625000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.01,
+      "amount": 3.0,
+      "cv_retrieval": 0.12222222222222223,
+      "fold_scores": [
+        0.08095238095238096,
+        0.09411764705882353,
+        0.20625000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.1,
+      "amount": 0.03,
+      "cv_retrieval": 0.12037037037037036,
+      "fold_scores": [
+        0.08095238095238096,
+        0.12352941176470589,
+        0.16875
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.1,
+      "amount": 0.1,
+      "cv_retrieval": 0.1277777777777778,
+      "fold_scores": [
+        0.09047619047619049,
+        0.11764705882352941,
+        0.18750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.1,
+      "amount": 0.3,
+      "cv_retrieval": 0.12962962962962965,
+      "fold_scores": [
+        0.09047619047619049,
+        0.11176470588235295,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.1,
+      "amount": 1.0,
+      "cv_retrieval": 0.12962962962962965,
+      "fold_scores": [
+        0.09047619047619049,
+        0.11176470588235295,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 0.1,
+      "amount": 3.0,
+      "cv_retrieval": 0.12962962962962965,
+      "fold_scores": [
+        0.09047619047619049,
+        0.11176470588235295,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 1.0,
+      "amount": 0.03,
+      "cv_retrieval": 0.1277777777777778,
+      "fold_scores": [
+        0.08095238095238096,
+        0.15882352941176472,
+        0.15625000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 1.0,
+      "amount": 0.1,
+      "cv_retrieval": 0.1425925925925926,
+      "fold_scores": [
+        0.1,
+        0.15294117647058827,
+        0.18750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 1.0,
+      "amount": 0.3,
+      "cv_retrieval": 0.15185185185185185,
+      "fold_scores": [
+        0.09523809523809523,
+        0.17647058823529413,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 1.0,
+      "amount": 1.0,
+      "cv_retrieval": 0.15185185185185188,
+      "fold_scores": [
+        0.1,
+        0.17058823529411768,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 1.0,
+      "amount": 3.0,
+      "cv_retrieval": 0.15555555555555556,
+      "fold_scores": [
+        0.1,
+        0.1823529411764706,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 10.0,
+      "amount": 0.03,
+      "cv_retrieval": 0.1240740740740741,
+      "fold_scores": [
+        0.0761904761904762,
+        0.15294117647058827,
+        0.15625000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 10.0,
+      "amount": 0.1,
+      "cv_retrieval": 0.1388888888888889,
+      "fold_scores": [
+        0.1,
+        0.15882352941176472,
+        0.16875
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 10.0,
+      "amount": 0.3,
+      "cv_retrieval": 0.1462962962962963,
+      "fold_scores": [
+        0.1,
+        0.1647058823529412,
+        0.18750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 10.0,
+      "amount": 1.0,
+      "cv_retrieval": 0.15555555555555556,
+      "fold_scores": [
+        0.1,
+        0.1823529411764706,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 10.0,
+      "amount": 3.0,
+      "cv_retrieval": 0.1592592592592593,
+      "fold_scores": [
+        0.10952380952380951,
+        0.1823529411764706,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 100.0,
+      "amount": 0.03,
+      "cv_retrieval": 0.1111111111111111,
+      "fold_scores": [
+        0.0761904761904762,
+        0.11764705882352941,
+        0.15000000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 100.0,
+      "amount": 0.1,
+      "cv_retrieval": 0.12592592592592594,
+      "fold_scores": [
+        0.0761904761904762,
+        0.1647058823529412,
+        0.15000000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 100.0,
+      "amount": 0.3,
+      "cv_retrieval": 0.13888888888888892,
+      "fold_scores": [
+        0.09047619047619049,
+        0.15294117647058827,
+        0.18750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 100.0,
+      "amount": 1.0,
+      "cv_retrieval": 0.1425925925925926,
+      "fold_scores": [
+        0.1,
+        0.1647058823529412,
+        0.17500000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "ridge",
+      "alpha": 100.0,
+      "amount": 3.0,
+      "cv_retrieval": 0.15185185185185188,
+      "fold_scores": [
+        0.1,
+        0.17058823529411768,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 2,
+      "amount": 0.03,
+      "cv_retrieval": 0.12222222222222225,
+      "fold_scores": [
+        0.0761904761904762,
+        0.15294117647058827,
+        0.15000000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 2,
+      "amount": 0.1,
+      "cv_retrieval": 0.14444444444444446,
+      "fold_scores": [
+        0.09523809523809523,
+        0.17058823529411768,
+        0.18125000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 2,
+      "amount": 0.3,
+      "cv_retrieval": 0.1592592592592593,
+      "fold_scores": [
+        0.10952380952380951,
+        0.1823529411764706,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 2,
+      "amount": 1.0,
+      "cv_retrieval": 0.1592592592592593,
+      "fold_scores": [
+        0.10952380952380951,
+        0.1823529411764706,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.1574074074074074,
+      "fold_scores": [
+        0.1,
+        0.1823529411764706,
+        0.20625000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 4,
+      "amount": 0.03,
+      "cv_retrieval": 0.1277777777777778,
+      "fold_scores": [
+        0.08571428571428572,
+        0.15294117647058827,
+        0.15625000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 4,
+      "amount": 0.1,
+      "cv_retrieval": 0.1425925925925926,
+      "fold_scores": [
+        0.09523809523809523,
+        0.1647058823529412,
+        0.18125000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 4,
+      "amount": 0.3,
+      "cv_retrieval": 0.1574074074074074,
+      "fold_scores": [
+        0.10476190476190476,
+        0.1941176470588235,
+        0.18750000000000003
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 4,
+      "amount": 1.0,
+      "cv_retrieval": 0.16296296296296298,
+      "fold_scores": [
+        0.10952380952380951,
+        0.1941176470588235,
+        0.2
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    {
+      "family": "extra",
+      "depth": 4,
+      "amount": 3.0,
+      "cv_retrieval": 0.1574074074074074,
+      "fold_scores": [
+        0.09047619047619049,
+        0.1941176470588235,
+        0.20625000000000002
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    }
+  ]
+}

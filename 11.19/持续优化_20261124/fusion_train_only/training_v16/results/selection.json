@@ -1,0 +1,27 @@
+{
+  "decision": "retain_current_best",
+  "fit_only_baseline": 0.4851851851851852,
+  "best_candidate": {
+    "visual_kind": "cls",
+    "query_mode": "raw",
+    "target": "utility",
+    "alpha": 10.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.48333333333333334,
+    "fold_scores": [
+      0.5285714285714286,
+      0.5529411764705883,
+      0.35
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "development_score_recomputed": false,
+  "retained_development_score_out_of_1": 0.5259259259259259,
+  "retained_score_source": "optimization_results/current_best.json",
+  "official_validation_or_test_used": false
+}

@@ -1,0 +1,12 @@
+{
+  "config": {
+    "remote": 0.5,
+    "detector": 0.03,
+    "qwen": 0.05,
+    "geo": 0.05,
+    "semantic": 0.03,
+    "scale": 0.95
+  },
+  "selection_used": "all 33 fit images only; no dev labels used for coefficients",
+  "frozen_at_utc": "2026-11-23T07:23:54.486357+00:00"
+}

@@ -1,0 +1,20 @@
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.90s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.74s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.91s/it]
+Qwen symmetric pair comparison 5/73
+Qwen symmetric pair comparison 10/73
+Qwen symmetric pair comparison 15/73
+Qwen symmetric pair comparison 20/73
+Qwen symmetric pair comparison 25/73
+Qwen symmetric pair comparison 30/73
+Qwen symmetric pair comparison 35/73
+Qwen symmetric pair comparison 40/73
+Qwen symmetric pair comparison 45/73
+Qwen symmetric pair comparison 50/73
+Qwen symmetric pair comparison 55/73
+Qwen symmetric pair comparison 60/73
+Qwen symmetric pair comparison 65/73
+Qwen symmetric pair comparison 70/73
+Qwen symmetric pair comparison 73/73

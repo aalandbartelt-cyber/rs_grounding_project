@@ -1,0 +1,73 @@
+{
+  "selection_used": "one scene-group inner fold of original 33 fit images",
+  "selected_epoch": 3,
+  "history": [
+    {
+      "epoch": 1,
+      "mean_loss": 0.34809023032159164,
+      "inner_validation_weighted_grounding": 0.49523809523809526
+    },
+    {
+      "epoch": 2,
+      "mean_loss": 0.33296191162126926,
+      "inner_validation_weighted_grounding": 0.49523809523809526
+    },
+    {
+      "epoch": 3,
+      "mean_loss": 0.3173145110621774,
+      "inner_validation_weighted_grounding": 0.5285714285714286
+    },
+    {
+      "epoch": 4,
+      "mean_loss": 0.29942916818191667,
+      "inner_validation_weighted_grounding": 0.49523809523809526
+    },
+    {
+      "epoch": 5,
+      "mean_loss": 0.29290677095117745,
+      "inner_validation_weighted_grounding": 0.49523809523809526
+    },
+    {
+      "epoch": 6,
+      "mean_loss": 0.278819357324963,
+      "inner_validation_weighted_grounding": 0.49523809523809526
+    }
+  ],
+  "training_images": [
+    0,
+    2,
+    3,
+    4,
+    23,
+    24,
+    27,
+    28,
+    30,
+    31,
+    32,
+    34,
+    35,
+    37,
+    41,
+    43,
+    44,
+    46,
+    48
+  ],
+  "validation_images": [
+    1,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    15,
+    16,
+    17,
+    18,
+    19,
+    47
+  ]
+}

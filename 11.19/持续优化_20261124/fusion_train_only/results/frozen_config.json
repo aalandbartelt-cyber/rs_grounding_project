@@ -1,0 +1,36 @@
+{
+  "selected": {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49444444444444446
+  },
+  "split_sha256": "f6731745dd3cb198ae7525c988ea3a80acb21a9fadc857642283cbac09809650",
+  "frozen_at_utc": "2026-11-23T03:55:43.232170+00:00",
+  "selection_used": "fit images only",
+  "dev_scores_used_for_selection": false,
+  "retrieval_shortlist_size": 5,
+  "code_sha256": {
+    "box_parser.py": "c9cbe79657e4f8648f56084a664f6c583f6c7b0aeb25db56e8afecf7ceaba7ff",
+    "common.py": "57e9f1e00e234a6ff07a7123b8fb6e31ea04d9261ad015bf33b423e18f10ead2",
+    "download_models.py": "d826a1d679f665e875212eceb99c40381e8182c1066cee1ad03520f60ed473b6",
+    "encode_geo_boxes.py": "7ed8ca90a7d7d79c63f5b6ffdc87277f40142994c26d06309a3c38ca0cc50d53",
+    "encode_retrieval.py": "ba65adad8e5523b0f17cd7f58b1a29c2bf1a91b245a066352cd7afa3e7611ce9",
+    "features.py": "c37fc7ca7808be88f84f2085cd0f1311da5d11a2a75446e270976c770c43be38",
+    "ground_geoground.py": "2da246e7fcb73cbcef5610b4a43df0807710164b063259f9ea63797412a7d6dc",
+    "isolate_training_data.py": "be6a790be131fef410c7c5429d1a16c33194b133b6d8a776bfd4901dd2675406",
+    "prepare_data.py": "b8af1bcc1c45a1d01a2a88ce21ed10f52403046b3dfa7788fb2af0e4e8ef3af2",
+    "rerank_qwen.py": "25c0995179a52ae45b318e5235ce6ec8de62795e9d23c4675745910b4d9f6d6e",
+    "score_round.py": "5a874c69bd46baad41d4bf963f1e85ad19ee3921bc2f5c28aec153383b9bf312",
+    "test_integrity.py": "c5e392d635779dd76637189a6aa9cc5fd22f8ec55ab3ed79283bb8879f567bd6",
+    "translate.py": "3ba399f965930884ae530ab3ab7af69a8a2162b3c9d34db4589c9a0def2fbf19",
+    "verify_round.py": "624d93b40dd95dff9fcdfe0dbb9443804146121d7f501e8147ed7059f6940f63",
+    "vlm.py": "9b5d69a45ecdf164679f58c70e37e9c4c86d61d3cd3d38cef39698d12944d000",
+    "write_report.py": "b71cff8fcb3fb9d6c494489c23cce9d16c6eeeac481e3aafe435194a121af8e3"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "fit_cross_validation_score_out_of_1": 0.6407407407407408,
+  "fit_image_count": 33,
+  "network_backbones_frozen": true,
+  "trained_components": [
+    "supervised candidate ranker",
+    "multi-positive image retrieval ranker"
+  ],
+  "official_validation_or_test_used": false,
+  "checkpoint_sha256": "3beafc1f54511f250b91d6658a510b5f088ca9197bd361125933f0c37335b423",
+  "code_sha256": {
+    "data.py": "166a32c430788653819837e63aa52817b7c6f4032851f4f1a908f0525dfc9b71",
+    "neural.py": "f23c556e21453d40d17175dbca6322dd194ed527ce669c220a3d3ff1f94df2f8",
+    "prepare_features.py": "ce3c54ce183b0c6c6cd9f17947f99569d3572a00da0e7cbaece0f918e644ba80",
+    "qwen_features.py": "8f7eca45139c225fce640c1af4ffc2e9560a8611db41b6ef05a3270b4d60bafe",
+    "train.py": "8f6a01a95d32ec9e7e14f4250ad88ea52a35a9ea1d86ea57d8f99d81a7fef890",
+    "tune.py": "8634db4d4749dab51c7f9f7facccc5fc0b35d5656480cb9fc3990e095a00c06b"
+  },
+  "qwen_semantic_sha256": "e7016457c26c78646a8b06dadd0df0bf1d6462bf93dba38dc2b34942235ef56b",
+  "config": {
+    "grounding": {
+      "family": "ridge",
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.46851851851851856
+    },
+    "retrieval": {
+      "family": "ridge",
+      "kind": "scalar",
+      "alpha": 0.01,
+      "fraction": 1.0,
+      "cv_retrieval": 0.17222222222222225
+    },
+    "regression": {
+      "alpha": 1.0,
+      "fraction": 0.0,
+      "cv_grounding": 0.46851851851851856
+    },
+    "selection_used": "three group folds within 33 fit images only",
+    "internal_dev_used_for_fitting_or_selection": false,
+    "frozen_at_utc": "2026-11-23T07:11:46.612035+00:00"
+  }
+}

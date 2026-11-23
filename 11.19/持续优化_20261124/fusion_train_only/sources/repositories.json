@@ -1,0 +1,46 @@
+[
+  {
+    "framework": "RemoteCLIP",
+    "repository": "https://github.com/ChenDelong1999/RemoteCLIP",
+    "revision": "a6a4787507e441f444c20404c90dd18520a8960d",
+    "recorded_files": [
+      "README.md",
+      "LICENSE"
+    ]
+  },
+  {
+    "framework": "GeoRSCLIP",
+    "repository": "https://github.com/om-ai-lab/RS5M",
+    "revision": "084cdd9596a845b69320526a7eef44b8cd3426ed",
+    "recorded_files": [
+      "README.md",
+      "LICENSE"
+    ]
+  },
+  {
+    "framework": "GeoGround",
+    "repository": "https://github.com/VisionXLab/GeoGround",
+    "revision": "a5f7305220058a9a5922183365ee74b04f2d9169",
+    "recorded_files": [
+      "README.md"
+    ]
+  },
+  {
+    "framework": "Qwen3-VL",
+    "repository": "https://github.com/QwenLM/Qwen3-VL",
+    "revision": "96588727e44c78b25ba03ea03b8e12f7e64fd0da",
+    "recorded_files": [
+      "README.md",
+      "LICENSE"
+    ]
+  },
+  {
+    "framework": "GroundingDINO",
+    "repository": "https://github.com/IDEA-Research/GroundingDINO",
+    "revision": "856dde20aee659246248e20734ef9ba5214f5e44",
+    "recorded_files": [
+      "README.md",
+      "LICENSE"
+    ]
+  }
+]

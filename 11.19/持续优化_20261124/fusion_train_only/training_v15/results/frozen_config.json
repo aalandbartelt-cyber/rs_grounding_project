@@ -1,0 +1,98 @@
+{
+  "selected": {
+    "method": "existing_v3_ridge",
+    "cv_grounding": 0.4851851851851852
+  },
+  "remoteclip_adapter": {
+    "rank": 8,
+    "blocks": 2,
+    "epochs": 3,
+    "scale": 0.95,
+    "cv_grounding": 0.45925925925925926,
+    "fold_weighted_grounding": [
+      0.5285714285714286,
+      0.5176470588235295,
+      0.30625
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "fit_only_promotion_baseline": {
+    "method": "training_v3 ridge",
+    "cv_grounding": 0.4851851851851852,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "fit_images": [
+    "rs_grounding_train_v1/train/labels_json/1062.json",
+    "rs_grounding_train_v1/train/labels_json/1071.json",
+    "rs_grounding_train_v1/train/labels_json/1072.json",
+    "rs_grounding_train_v1/train/labels_json/1073.json",
+    "rs_grounding_train_v1/train/labels_json/1076.json",
+    "rs_grounding_train_v1/train/labels_json/1083.json",
+    "rs_grounding_train_v1/train/labels_json/1085.json",
+    "rs_grounding_train_v1/train/labels_json/1086.json",
+    "rs_grounding_train_v1/train/labels_json/1094.json",
+    "rs_grounding_train_v1/train/labels_json/1096.json",
+    "rs_grounding_train_v1/train/labels_json/1097.json",
+    "rs_grounding_train_v1/train/labels_json/1098.json",
+    "rs_grounding_train_v1/train/labels_json/1106.json",
+    "rs_grounding_train_v1/train/labels_json/1107.json",
+    "rs_grounding_train_v1/train/labels_json/1108.json",
+    "rs_grounding_train_v1/train/labels_json/1109.json",
+    "rs_grounding_train_v1/train/labels_json/1114.json",
+    "rs_grounding_train_v1/train/labels_json/1169.json",
+    "rs_grounding_train_v1/train/labels_json/1171.json",
+    "rs_grounding_train_v1/train/labels_json/1181.json",
+    "rs_grounding_train_v1/train/labels_json/1188.json",
+    "rs_grounding_train_v1/train/labels_json/1192.json",
+    "rs_grounding_train_v1/train/labels_json/1195.json",
+    "rs_grounding_train_v1/train/labels_json/1196.json",
+    "rs_grounding_train_v1/train/labels_json/1198.json",
+    "rs_grounding_train_v1/train/labels_json/1201.json",
+    "rs_grounding_train_v1/train/labels_json/1254.json",
+    "rs_grounding_train_v1/train/labels_json/1283.json",
+    "rs_grounding_train_v1/train/labels_json/1287.json",
+    "rs_grounding_train_v1/train/labels_json/1288.json",
+    "rs_grounding_train_v1/train/labels_json/1298.json",
+    "rs_grounding_train_v1/train/labels_json/1301.json",
+    "rs_grounding_train_v1/train/labels_json/901.json"
+  ],
+  "internal_dev_images": [
+    "rs_grounding_train_v1/train/labels_json/1091.json",
+    "rs_grounding_train_v1/train/labels_json/1103.json",
+    "rs_grounding_train_v1/train/labels_json/1104.json",
+    "rs_grounding_train_v1/train/labels_json/1191.json",
+    "rs_grounding_train_v1/train/labels_json/1197.json",
+    "rs_grounding_train_v1/train/labels_json/1248.json",
+    "rs_grounding_train_v1/train/labels_json/1262.json",
+    "rs_grounding_train_v1/train/labels_json/1263.json",
+    "rs_grounding_train_v1/train/labels_json/1273.json",
+    "rs_grounding_train_v1/train/labels_json/1286.json",
+    "rs_grounding_train_v1/train/labels_json/1294.json",
+    "rs_grounding_train_v1/train/labels_json/1149.json",
+    "rs_grounding_train_v1/train/labels_json/1159.json",
+    "rs_grounding_train_v1/train/labels_json/1160.json",
+    "rs_grounding_train_v1/train/labels_json/1177.json",
+    "rs_grounding_train_v1/train/labels_json/1179.json"
+  ],
+  "selection_used": "three SIFT-scene-group folds within original-train fit images",
+  "official_validation_or_test_used": false,
+  "dino_feature_manifest": "training_v15/results/dino_features_manifest.json",
+  "lora_fold_data_access_audits": [
+    "training_v15\\results\\lora_fold_0_data_access.json",
+    "training_v15\\results\\lora_fold_1_data_access.json",
+    "training_v15\\results\\lora_fold_2_data_access.json"
+  ],
+  "frozen_at_utc": "2026-11-23T18:10:50.315487+00:00",
+  "code_sha256": {
+    "dino_ranker.py": "9d36881e20b77ee281d545257e31ec3227508ced4f93765c81e8636d9cf4d02f",
+    "encode_dino_regions.py": "c548ed4ea4506fc47f9bfc5bfb09ca96f528a705bebc8605002cac028a0e017a"
+  }
+}

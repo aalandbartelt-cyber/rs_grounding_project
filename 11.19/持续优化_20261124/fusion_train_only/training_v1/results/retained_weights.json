@@ -1,0 +1,24 @@
+{
+  "score_on_same_16_image_internal_dev": 0.5037037037037037,
+  "scope": "development checkpoint; target 0.6 not met",
+  "pretrained_networks_directory": "../../weights",
+  "files": {
+    "RemoteCLIP_visual_lora.pt": {
+      "bytes": 1056627,
+      "sha256": "3b615179c4e008a3f7e3ca8d07d3ee1c47c50a243c3aa158b91943218ad5493b"
+    },
+    "RemoteCLIP_lora_retrieval_head.pt": {
+      "bytes": 2845,
+      "sha256": "ad07d35e5373c3e63d3fbbab78102e60454a31cb2ad1519697aca3a8653c9198"
+    },
+    "trained_fusion_final.pt": {
+      "bytes": 4045,
+      "sha256": "3beafc1f54511f250b91d6658a510b5f088ca9197bd361125933f0c37335b423"
+    }
+  },
+  "inference_implementation": [
+    "code/lora_visual.py",
+    "code/lora_retrieval.py"
+  ],
+  "official_validation_or_test_used": false
+}

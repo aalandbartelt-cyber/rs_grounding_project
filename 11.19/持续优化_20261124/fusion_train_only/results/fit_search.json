@@ -1,0 +1,5348 @@
+[
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49444444444444446
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49444444444444446
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49444444444444446
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49444444444444446
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49444444444444446
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49444444444444446
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4703703703703704
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4444444444444444
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.45925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4740740740740741
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4740740740740741
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 0.5,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4425925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.48148148148148145
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4925925925925926
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45555555555555555
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4685185185185185
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 0.5,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44814814814814813
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.48703703703703705
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44814814814814813
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4388888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.48703703703703705
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.44074074074074077
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.05,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4740740740740741
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.0,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.48703703703703705
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4740740740740741
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4777777777777778
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46111111111111114
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.45185185185185184
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4648148148148148
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.03,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.48703703703703705
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4759259259259259
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.47962962962962963
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.0,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.46296296296296297
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.49074074074074076
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.05,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.0
+    },
+    "fit_score_out_of_1": 0.4537037037037037
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.05
+    },
+    "fit_score_out_of_1": 0.4666666666666667
+  },
+  {
+    "config": {
+      "remote_fraction": 1.0,
+      "region_fraction": 1.0,
+      "detector": 0.1,
+      "qwen_retrieval": 0.1,
+      "qwen_grounding": 0.2,
+      "geoground_vote": 0.2
+    },
+    "fit_score_out_of_1": 0.4888888888888889
+  }
+]

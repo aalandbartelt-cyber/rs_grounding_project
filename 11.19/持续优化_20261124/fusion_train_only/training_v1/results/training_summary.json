@@ -1,0 +1,64 @@
+{
+  "fitted_on_image_labels": [
+    "rs_grounding_train_v1/train/labels_json/1062.json",
+    "rs_grounding_train_v1/train/labels_json/1071.json",
+    "rs_grounding_train_v1/train/labels_json/1072.json",
+    "rs_grounding_train_v1/train/labels_json/1073.json",
+    "rs_grounding_train_v1/train/labels_json/1076.json",
+    "rs_grounding_train_v1/train/labels_json/1083.json",
+    "rs_grounding_train_v1/train/labels_json/1085.json",
+    "rs_grounding_train_v1/train/labels_json/1086.json",
+    "rs_grounding_train_v1/train/labels_json/1094.json",
+    "rs_grounding_train_v1/train/labels_json/1096.json",
+    "rs_grounding_train_v1/train/labels_json/1097.json",
+    "rs_grounding_train_v1/train/labels_json/1098.json",
+    "rs_grounding_train_v1/train/labels_json/1106.json",
+    "rs_grounding_train_v1/train/labels_json/1107.json",
+    "rs_grounding_train_v1/train/labels_json/1108.json",
+    "rs_grounding_train_v1/train/labels_json/1109.json",
+    "rs_grounding_train_v1/train/labels_json/1114.json",
+    "rs_grounding_train_v1/train/labels_json/1169.json",
+    "rs_grounding_train_v1/train/labels_json/1171.json",
+    "rs_grounding_train_v1/train/labels_json/1181.json",
+    "rs_grounding_train_v1/train/labels_json/1188.json",
+    "rs_grounding_train_v1/train/labels_json/1192.json",
+    "rs_grounding_train_v1/train/labels_json/1195.json",
+    "rs_grounding_train_v1/train/labels_json/1196.json",
+    "rs_grounding_train_v1/train/labels_json/1198.json",
+    "rs_grounding_train_v1/train/labels_json/1201.json",
+    "rs_grounding_train_v1/train/labels_json/1254.json",
+    "rs_grounding_train_v1/train/labels_json/1283.json",
+    "rs_grounding_train_v1/train/labels_json/1287.json",
+    "rs_grounding_train_v1/train/labels_json/1288.json",
+    "rs_grounding_train_v1/train/labels_json/1298.json",
+    "rs_grounding_train_v1/train/labels_json/1301.json",
+    "rs_grounding_train_v1/train/labels_json/901.json"
+  ],
+  "trained_parameters": 74,
+  "checkpoint_sha256": "8e4a3907b6a81c2c4ecedd21402326f750f13a1642c9f86b078fe9cf73bdb21a",
+  "fit_cross_validation_score_out_of_1": 0.6407407407407408,
+  "config": {
+    "grounding": {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.46851851851851856
+    },
+    "regression": {
+      "alpha": 1.0,
+      "fraction": 0.0,
+      "cv_grounding": 0.46851851851851856
+    },
+    "retrieval": {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "fraction": 1.0,
+      "cv_retrieval": 0.17222222222222225
+    },
+    "selection_used": "grouped cross-validation within 33 fit images only",
+    "internal_dev_used_for_fitting_or_selection": false,
+    "frozen_at_utc": "2026-11-23T07:11:29.368000+00:00"
+  }
+}

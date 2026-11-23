@@ -1,0 +1,109 @@
+{
+  "combined_with_v2_retrieval": {
+    "images": 16,
+    "queries_per_task": 27,
+    "counts": {
+      "R@1": 5,
+      "R@5": 15,
+      "Acc@0.5": 16,
+      "Acc@0.75": 11
+    },
+    "R@1": 0.18518518518518517,
+    "R@5": 0.5555555555555556,
+    "Acc@0.5": 0.5925925925925926,
+    "Acc@0.75": 0.4074074074074074,
+    "score_out_of_1": 0.5259259259259259
+  },
+  "target_score": 0.6,
+  "target_met": false,
+  "official_validation_or_test_used": false,
+  "checkpoint_sha256": "32466ff7a8d3cee002c56e42fa1a75f12873f5f9430deeec21df0991b083fe04",
+  "config": {
+    "selected": {
+      "rank": 8,
+      "blocks": 2,
+      "epochs": 3,
+      "scale": 0.95,
+      "cv_grounding": 0.45925925925925926,
+      "fold_weighted_grounding": [
+        0.5285714285714286,
+        0.5176470588235295,
+        0.30625
+      ],
+      "fold_queries": [
+        21,
+        17,
+        16
+      ]
+    },
+    "selection_used": "three SIFT-scene-group folds within 33 original-train fit images",
+    "fit_images": [
+      "rs_grounding_train_v1/train/labels_json/1062.json",
+      "rs_grounding_train_v1/train/labels_json/1071.json",
+      "rs_grounding_train_v1/train/labels_json/1072.json",
+      "rs_grounding_train_v1/train/labels_json/1073.json",
+      "rs_grounding_train_v1/train/labels_json/1076.json",
+      "rs_grounding_train_v1/train/labels_json/1083.json",
+      "rs_grounding_train_v1/train/labels_json/1085.json",
+      "rs_grounding_train_v1/train/labels_json/1086.json",
+      "rs_grounding_train_v1/train/labels_json/1094.json",
+      "rs_grounding_train_v1/train/labels_json/1096.json",
+      "rs_grounding_train_v1/train/labels_json/1097.json",
+      "rs_grounding_train_v1/train/labels_json/1098.json",
+      "rs_grounding_train_v1/train/labels_json/1106.json",
+      "rs_grounding_train_v1/train/labels_json/1107.json",
+      "rs_grounding_train_v1/train/labels_json/1108.json",
+      "rs_grounding_train_v1/train/labels_json/1109.json",
+      "rs_grounding_train_v1/train/labels_json/1114.json",
+      "rs_grounding_train_v1/train/labels_json/1169.json",
+      "rs_grounding_train_v1/train/labels_json/1171.json",
+      "rs_grounding_train_v1/train/labels_json/1181.json",
+      "rs_grounding_train_v1/train/labels_json/1188.json",
+      "rs_grounding_train_v1/train/labels_json/1192.json",
+      "rs_grounding_train_v1/train/labels_json/1195.json",
+      "rs_grounding_train_v1/train/labels_json/1196.json",
+      "rs_grounding_train_v1/train/labels_json/1198.json",
+      "rs_grounding_train_v1/train/labels_json/1201.json",
+      "rs_grounding_train_v1/train/labels_json/1254.json",
+      "rs_grounding_train_v1/train/labels_json/1283.json",
+      "rs_grounding_train_v1/train/labels_json/1287.json",
+      "rs_grounding_train_v1/train/labels_json/1288.json",
+      "rs_grounding_train_v1/train/labels_json/1298.json",
+      "rs_grounding_train_v1/train/labels_json/1301.json",
+      "rs_grounding_train_v1/train/labels_json/901.json"
+    ],
+    "internal_dev_images": [
+      "rs_grounding_train_v1/train/labels_json/1091.json",
+      "rs_grounding_train_v1/train/labels_json/1103.json",
+      "rs_grounding_train_v1/train/labels_json/1104.json",
+      "rs_grounding_train_v1/train/labels_json/1191.json",
+      "rs_grounding_train_v1/train/labels_json/1197.json",
+      "rs_grounding_train_v1/train/labels_json/1248.json",
+      "rs_grounding_train_v1/train/labels_json/1262.json",
+      "rs_grounding_train_v1/train/labels_json/1263.json",
+      "rs_grounding_train_v1/train/labels_json/1273.json",
+      "rs_grounding_train_v1/train/labels_json/1286.json",
+      "rs_grounding_train_v1/train/labels_json/1294.json",
+      "rs_grounding_train_v1/train/labels_json/1149.json",
+      "rs_grounding_train_v1/train/labels_json/1159.json",
+      "rs_grounding_train_v1/train/labels_json/1160.json",
+      "rs_grounding_train_v1/train/labels_json/1177.json",
+      "rs_grounding_train_v1/train/labels_json/1179.json"
+    ],
+    "official_validation_or_test_used": false,
+    "previously_selected_config": {
+      "rank": 8,
+      "blocks": 2,
+      "epochs": 3,
+      "scale": 0.95
+    },
+    "limitation": "Earlier rounds consulted the same internal-dev split; fold selection itself uses only fit images.",
+    "frozen_at_utc": "2026-11-23T17:19:58.645648+00:00",
+    "code_sha256": {
+      "training_v11\\code\\cv_lora.py": "273551a6a9c73d1f1608bf48def069d7771a2bc5dc117a240d90fc792c429ea6",
+      "training_v1\\code\\lora_visual.py": "d5cb73271dc28227f5d08deb66dfbd02ac2c27f15189276f98a9695db9929ba5"
+    }
+  },
+  "scored_at_utc": "2026-11-23T17:21:29.765358+00:00",
+  "previous_best_same_internal_dev_score": 0.5259259259259259
+}

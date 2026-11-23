@@ -1,0 +1,13 @@
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14-336'. Model initialized randomly.
+QuickGELU whole-gallery encoding 10/49
+QuickGELU whole-gallery encoding 20/49
+QuickGELU whole-gallery encoding 30/49
+QuickGELU whole-gallery encoding 40/49
+QuickGELU regional encoding 10/73
+QuickGELU regional encoding 20/73
+QuickGELU regional encoding 30/73
+QuickGELU regional encoding 40/73
+QuickGELU regional encoding 50/73
+QuickGELU regional encoding 60/73
+QuickGELU regional encoding 70/73
+QuickGELU regional encoding 73/73

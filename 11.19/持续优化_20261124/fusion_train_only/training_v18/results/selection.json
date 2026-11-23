@@ -1,0 +1,41 @@
+{
+  "decision": "retain_current_best",
+  "development_score_recomputed": false,
+  "retained_development_score_out_of_1": 0.5259259259259259,
+  "best_grounding_candidate": {
+    "method": "ridge",
+    "features": "scalar",
+    "target": "utility",
+    "alpha": 10.0,
+    "amount": 16.0,
+    "scale": 0.95,
+    "cv_grounding": 0.46111111111111114,
+    "fold_scores": [
+      0.4904761904761905,
+      0.5470588235294118,
+      0.33125
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "best_retrieval_candidate": {
+    "family": "extra",
+    "depth": 4,
+    "amount": 1.0,
+    "cv_retrieval": 0.16296296296296298,
+    "fold_scores": [
+      0.10952380952380951,
+      0.1941176470588235,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "official_validation_or_test_used": false
+}

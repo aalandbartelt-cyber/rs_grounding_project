@@ -1,0 +1,13 @@
+{
+  "weighted_fit_grounding": 0.4703703703703703,
+  "config": {
+    "remote": 0.5,
+    "detector": 0.03,
+    "qwen": 0.05,
+    "geo": 0.05,
+    "semantic": 0.03,
+    "scale": 0.95
+  },
+  "official_validation_or_test_used": false,
+  "warning": "Fitted on all 33 fit images; not cross-validation score"
+}

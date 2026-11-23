@@ -1,0 +1,13 @@
+{
+  "selection_used": "retrieval head settings fixed from prior fit-only CV; visual adapter fitted on 33 fit images",
+  "frozen_at_utc": "2026-11-23T07:33:06.388303+00:00",
+  "retrieval_config": {
+    "family": "ridge",
+    "kind": "scalar",
+    "alpha": 0.01,
+    "fraction": 1.0,
+    "cv_retrieval": 0.17222222222222225
+  },
+  "visual_adapter_sha256": "3b615179c4e008a3f7e3ca8d07d3ee1c47c50a243c3aa158b91943218ad5493b",
+  "official_validation_or_test_used": false
+}

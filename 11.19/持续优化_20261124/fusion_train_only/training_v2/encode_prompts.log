@@ -1,0 +1,4 @@
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+RemoteCLIP: encoded literal, concise and attribute prompts
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14-336'. Model initialized randomly.
+GeoRSCLIP: encoded literal, concise and attribute prompts

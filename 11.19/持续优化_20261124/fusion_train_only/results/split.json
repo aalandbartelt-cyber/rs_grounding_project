@@ -1,0 +1,386 @@
+{
+  "seed": 20261123,
+  "source_split": "original train only",
+  "fit": [
+    "rs_grounding_train_v1/train/labels_json/1062.json",
+    "rs_grounding_train_v1/train/labels_json/1071.json",
+    "rs_grounding_train_v1/train/labels_json/1072.json",
+    "rs_grounding_train_v1/train/labels_json/1073.json",
+    "rs_grounding_train_v1/train/labels_json/1076.json",
+    "rs_grounding_train_v1/train/labels_json/1083.json",
+    "rs_grounding_train_v1/train/labels_json/1085.json",
+    "rs_grounding_train_v1/train/labels_json/1086.json",
+    "rs_grounding_train_v1/train/labels_json/1094.json",
+    "rs_grounding_train_v1/train/labels_json/1096.json",
+    "rs_grounding_train_v1/train/labels_json/1097.json",
+    "rs_grounding_train_v1/train/labels_json/1098.json",
+    "rs_grounding_train_v1/train/labels_json/1106.json",
+    "rs_grounding_train_v1/train/labels_json/1107.json",
+    "rs_grounding_train_v1/train/labels_json/1108.json",
+    "rs_grounding_train_v1/train/labels_json/1109.json",
+    "rs_grounding_train_v1/train/labels_json/1114.json",
+    "rs_grounding_train_v1/train/labels_json/1169.json",
+    "rs_grounding_train_v1/train/labels_json/1171.json",
+    "rs_grounding_train_v1/train/labels_json/1181.json",
+    "rs_grounding_train_v1/train/labels_json/1188.json",
+    "rs_grounding_train_v1/train/labels_json/1192.json",
+    "rs_grounding_train_v1/train/labels_json/1195.json",
+    "rs_grounding_train_v1/train/labels_json/1196.json",
+    "rs_grounding_train_v1/train/labels_json/1198.json",
+    "rs_grounding_train_v1/train/labels_json/1201.json",
+    "rs_grounding_train_v1/train/labels_json/1254.json",
+    "rs_grounding_train_v1/train/labels_json/1283.json",
+    "rs_grounding_train_v1/train/labels_json/1287.json",
+    "rs_grounding_train_v1/train/labels_json/1288.json",
+    "rs_grounding_train_v1/train/labels_json/1298.json",
+    "rs_grounding_train_v1/train/labels_json/1301.json",
+    "rs_grounding_train_v1/train/labels_json/901.json"
+  ],
+  "dev": [
+    "rs_grounding_train_v1/train/labels_json/1091.json",
+    "rs_grounding_train_v1/train/labels_json/1103.json",
+    "rs_grounding_train_v1/train/labels_json/1104.json",
+    "rs_grounding_train_v1/train/labels_json/1191.json",
+    "rs_grounding_train_v1/train/labels_json/1197.json",
+    "rs_grounding_train_v1/train/labels_json/1248.json",
+    "rs_grounding_train_v1/train/labels_json/1262.json",
+    "rs_grounding_train_v1/train/labels_json/1263.json",
+    "rs_grounding_train_v1/train/labels_json/1273.json",
+    "rs_grounding_train_v1/train/labels_json/1286.json",
+    "rs_grounding_train_v1/train/labels_json/1294.json",
+    "rs_grounding_train_v1/train/labels_json/1149.json",
+    "rs_grounding_train_v1/train/labels_json/1159.json",
+    "rs_grounding_train_v1/train/labels_json/1160.json",
+    "rs_grounding_train_v1/train/labels_json/1177.json",
+    "rs_grounding_train_v1/train/labels_json/1179.json"
+  ],
+  "description": "One internal development round, SIFT-overlap groups kept together",
+  "overlap_groups": [
+    [
+      "rs_grounding_train_v1/train/labels_json/1062.json",
+      "rs_grounding_train_v1/train/labels_json/1072.json",
+      "rs_grounding_train_v1/train/labels_json/1073.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1071.json",
+      "rs_grounding_train_v1/train/labels_json/1083.json",
+      "rs_grounding_train_v1/train/labels_json/1085.json",
+      "rs_grounding_train_v1/train/labels_json/1086.json",
+      "rs_grounding_train_v1/train/labels_json/1094.json",
+      "rs_grounding_train_v1/train/labels_json/1096.json",
+      "rs_grounding_train_v1/train/labels_json/1097.json",
+      "rs_grounding_train_v1/train/labels_json/1098.json",
+      "rs_grounding_train_v1/train/labels_json/1106.json",
+      "rs_grounding_train_v1/train/labels_json/1107.json",
+      "rs_grounding_train_v1/train/labels_json/1108.json",
+      "rs_grounding_train_v1/train/labels_json/1109.json",
+      "rs_grounding_train_v1/train/labels_json/1114.json",
+      "rs_grounding_train_v1/train/labels_json/1301.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1076.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1091.json",
+      "rs_grounding_train_v1/train/labels_json/1103.json",
+      "rs_grounding_train_v1/train/labels_json/1104.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1149.json",
+      "rs_grounding_train_v1/train/labels_json/1159.json",
+      "rs_grounding_train_v1/train/labels_json/1160.json",
+      "rs_grounding_train_v1/train/labels_json/1177.json",
+      "rs_grounding_train_v1/train/labels_json/1179.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1169.json",
+      "rs_grounding_train_v1/train/labels_json/1171.json",
+      "rs_grounding_train_v1/train/labels_json/1188.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1181.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1191.json",
+      "rs_grounding_train_v1/train/labels_json/1197.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1192.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1195.json",
+      "rs_grounding_train_v1/train/labels_json/1196.json",
+      "rs_grounding_train_v1/train/labels_json/1198.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1201.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1248.json",
+      "rs_grounding_train_v1/train/labels_json/1262.json",
+      "rs_grounding_train_v1/train/labels_json/1263.json",
+      "rs_grounding_train_v1/train/labels_json/1273.json",
+      "rs_grounding_train_v1/train/labels_json/1286.json",
+      "rs_grounding_train_v1/train/labels_json/1294.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1254.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1283.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1287.json",
+      "rs_grounding_train_v1/train/labels_json/1288.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/1298.json"
+    ],
+    [
+      "rs_grounding_train_v1/train/labels_json/901.json"
+    ]
+  ],
+  "flagged_pairs": [
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1072.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1062.json",
+      "affine_inliers": 142
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1073.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1062.json",
+      "affine_inliers": 41
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1073.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1072.json",
+      "affine_inliers": 131
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1085.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1071.json",
+      "affine_inliers": 174
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1086.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1071.json",
+      "affine_inliers": 55
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1086.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1085.json",
+      "affine_inliers": 160
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1094.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1083.json",
+      "affine_inliers": 84
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1096.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1085.json",
+      "affine_inliers": 109
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1096.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1086.json",
+      "affine_inliers": 55
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1097.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1085.json",
+      "affine_inliers": 53
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1097.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1086.json",
+      "affine_inliers": 76
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1097.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1096.json",
+      "affine_inliers": 193
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1103.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1091.json",
+      "affine_inliers": 108
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1104.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1091.json",
+      "affine_inliers": 54
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1104.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1103.json",
+      "affine_inliers": 229
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1106.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1094.json",
+      "affine_inliers": 112
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1106.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1096.json",
+      "affine_inliers": 70
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1107.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1098.json",
+      "affine_inliers": 94
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1108.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1096.json",
+      "affine_inliers": 13
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1108.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1097.json",
+      "affine_inliers": 12
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1108.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1098.json",
+      "affine_inliers": 134
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1108.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1107.json",
+      "affine_inliers": 184
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1109.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1098.json",
+      "affine_inliers": 27
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1109.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1108.json",
+      "affine_inliers": 172
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1114.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1107.json",
+      "affine_inliers": 27
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1114.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1108.json",
+      "affine_inliers": 66
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1114.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1109.json",
+      "affine_inliers": 39
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1159.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1149.json",
+      "affine_inliers": 91
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1160.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1149.json",
+      "affine_inliers": 148
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1160.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1159.json",
+      "affine_inliers": 151
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1177.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1159.json",
+      "affine_inliers": 216
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1177.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1160.json",
+      "affine_inliers": 62
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1179.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1160.json",
+      "affine_inliers": 154
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1188.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1169.json",
+      "affine_inliers": 78
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1188.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1171.json",
+      "affine_inliers": 70
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1196.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1195.json",
+      "affine_inliers": 198
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1197.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1191.json",
+      "affine_inliers": 134
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1198.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1195.json",
+      "affine_inliers": 128
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1198.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1196.json",
+      "affine_inliers": 41
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1262.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1248.json",
+      "affine_inliers": 148
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1263.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1248.json",
+      "affine_inliers": 42
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1263.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1262.json",
+      "affine_inliers": 98
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1273.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1263.json",
+      "affine_inliers": 85
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1286.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1273.json",
+      "affine_inliers": 81
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1288.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1287.json",
+      "affine_inliers": 216
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1294.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1286.json",
+      "affine_inliers": 54
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1301.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1096.json",
+      "affine_inliers": 14
+    },
+    {
+      "first": "rs_grounding_train_v1/train/labels_json/1301.json",
+      "second": "rs_grounding_train_v1/train/labels_json/1097.json",
+      "affine_inliers": 13
+    }
+  ],
+  "official_validation_or_test_used": false
+}

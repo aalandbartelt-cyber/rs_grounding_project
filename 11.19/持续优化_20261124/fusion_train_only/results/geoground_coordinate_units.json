@@ -1,0 +1,10 @@
+{
+  "units": "1000",
+  "fit_mean_iou_by_units": {
+    "100": 0.0,
+    "1000": 0.5023233084077084,
+    "336": 0.0,
+    "pixels": 0.4468369887693337
+  },
+  "selected_using": "fit images only"
+}

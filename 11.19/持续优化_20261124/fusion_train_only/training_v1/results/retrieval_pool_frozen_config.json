@@ -1,0 +1,10 @@
+{
+  "retrieval": {
+    "family": "old",
+    "cv_retrieval": 0.17222222222222225
+  },
+  "selection_used": "three grouped folds within 33 fit images only",
+  "frozen_at_utc": "2026-11-23T07:23:14.313227+00:00",
+  "grounding_assignment_used_for_retrieval": false,
+  "official_validation_or_test_used": false
+}

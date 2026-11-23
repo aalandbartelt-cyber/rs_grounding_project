@@ -1,0 +1,12 @@
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+RemoteCLIP training augmentation 100/432
+RemoteCLIP training augmentation 200/432
+RemoteCLIP training augmentation 300/432
+RemoteCLIP training augmentation 400/432
+RemoteCLIP training augmentation 432/432
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14-336'. Model initialized randomly.
+GeoRSCLIP training augmentation 100/432
+GeoRSCLIP training augmentation 200/432
+GeoRSCLIP training augmentation 300/432
+GeoRSCLIP training augmentation 400/432
+GeoRSCLIP training augmentation 432/432

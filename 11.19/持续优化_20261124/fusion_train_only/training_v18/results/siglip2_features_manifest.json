@@ -1,0 +1,13 @@
+{
+  "source": "google/siglip2-base-patch16-512",
+  "revision": "a89f5c5093f902bf39d3cd4d81d2c09867f0724b",
+  "license": "Apache-2.0",
+  "weights_sha256": "fe0e601c625e69eed8e73500d39e9b6164403fe03db8048e87913c3cefbbb3fe",
+  "features_sha256": "df43b67068eade37d5c32c80bd2946a90735766144ad99c86ebf108d1fc46625",
+  "code_sha256": "ca705eb9798e4abde18aaf58d0398eb724e0a2b90ead1c5d318117a7a6bc72b7",
+  "official_validation_or_test_used": false,
+  "ground_truth_used_in_encoding": false,
+  "image_scope": "49 whitelisted original-train images",
+  "gallery_uses_query_independent_detector_regions": true,
+  "text_inputs_derived_from_query_text_only": true
+}

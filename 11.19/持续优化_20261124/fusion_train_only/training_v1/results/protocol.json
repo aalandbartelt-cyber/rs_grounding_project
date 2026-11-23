@@ -1,0 +1,57 @@
+{
+  "target_score": 0.6,
+  "original_train_fit_images": 33,
+  "original_train_internal_dev_images": 16,
+  "groups_preserved": true,
+  "fold_image_ids": [
+    [
+      1,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      15,
+      16,
+      17,
+      18,
+      19,
+      47
+    ],
+    [
+      23,
+      24,
+      28,
+      27,
+      31,
+      32,
+      34,
+      43,
+      44,
+      37,
+      46
+    ],
+    [
+      48,
+      0,
+      2,
+      3,
+      4,
+      35,
+      30,
+      41
+    ]
+  ],
+  "official_validation_or_test_used": false,
+  "hyperparameter_selection": "three grouped folds within the original 33 fit images",
+  "known_limitation": "The old 16-image internal-dev score has already informed the framework choice.",
+  "starting_frameworks": [
+    "RemoteCLIP",
+    "GeoRSCLIP",
+    "GroundingDINO",
+    "GeoGround",
+    "Qwen3-VL"
+  ]
+}

@@ -1,0 +1,20 @@
+Attribute candidate {'policy': 'original', 'target': 'iou', 'alpha': 0.01}: best fit-side grounding 0.4722
+Attribute candidate {'policy': 'original', 'target': 'iou', 'alpha': 0.1}: best fit-side grounding 0.4722
+Attribute candidate {'policy': 'original', 'target': 'iou', 'alpha': 1.0}: best fit-side grounding 0.4722
+Attribute candidate {'policy': 'original', 'target': 'iou', 'alpha': 10.0}: best fit-side grounding 0.4722
+Attribute candidate {'policy': 'original', 'target': 'utility', 'alpha': 0.01}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'original', 'target': 'utility', 'alpha': 0.1}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'original', 'target': 'utility', 'alpha': 1.0}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'original', 'target': 'utility', 'alpha': 10.0}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 0.01}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 0.1}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 1.0}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 10.0}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 0.01}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 0.1}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 1.0}: best fit-side grounding 0.4815
+Attribute candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 10.0}: best fit-side grounding 0.4815
+Attribute retrieval/exact: best fit-side recall 0.1611
+Attribute retrieval/semantic: best fit-side recall 0.1611
+Attribute fusion internal dev: {'images': 16, 'queries_per_task': 27, 'counts': {'R@1': 2, 'R@5': 11, 'Acc@0.5': 15, 'Acc@0.75': 10}, 'R@1': 0.07407407407407407, 'R@5': 0.4074074074074074, 'Acc@0.5': 0.5555555555555556, 'Acc@0.75': 0.37037037037037035, 'score_out_of_1': 0.45925925925925926}
+Attribute retrieval with retained LoRA: {'images': 16, 'queries_per_task': 27, 'counts': {'R@1': 2, 'R@5': 11, 'Acc@0.5': 16, 'Acc@0.75': 11}, 'R@1': 0.07407407407407407, 'R@5': 0.4074074074074074, 'Acc@0.5': 0.5925925925925926, 'Acc@0.75': 0.4074074074074074, 'score_out_of_1': 0.48518518518518516}

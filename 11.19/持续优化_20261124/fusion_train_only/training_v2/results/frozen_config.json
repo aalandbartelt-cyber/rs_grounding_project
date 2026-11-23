@@ -1,0 +1,38 @@
+{
+  "selected": {
+    "family": "ridge",
+    "kind": "all",
+    "target": "iou",
+    "regularization": 0.01,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4537037037037037
+  },
+  "selection_used": "33 fit images only; held-out scene groups for head selection",
+  "retrieval": {
+    "family": "extra",
+    "depth": 2,
+    "amount": 3.0,
+    "cv_retrieval": 0.16666666666666666
+  },
+  "frozen_at_utc": "2026-11-23T07:59:25.709223+00:00",
+  "input_sha256": {
+    "candidates.pt": "0f3f5363a03c606563fc878207389cf2810310de2f1beae8219796c60d1c7b78",
+    "geoground_views.json": "6169a8a845078f7563b4c406c94630092e439c7cf4fe35cb176e6ad92fcd52cc",
+    "query_features.pt": "67da0c45fab6a545dcc98c9242ebde206c2ba65835145d531d43110c81f5d8e0",
+    "query_prompts.json": "68badc5189b0b8f08de1106266a8fdd82b5ab761cc19826698a54bd821802447",
+    "qwen_pair_preferences.json": "c6b7cafa564f24b6ba8f1f31667aaaca4692e1df375d51ebd06f470b74d11f6c"
+  },
+  "code_sha256": {
+    "encode_candidates.py": "77f39d52aa277404bd6ce8160d86577a17aaa1a5e8da69635c43d9eeea79b55d",
+    "encode_prompts.py": "fa0a1ee5b692fd7407cf0726171fb6774a8d4829f5ca368365f7b236b1ca8d9f",
+    "fusion_features.py": "595a1de97bbbdefe946ad72901b7766a3e22ceb7280a53d0890284e9209e9b8e",
+    "geoground_views.py": "9a4b7270d579ebeed0cfc109fc6dbe7165181d2eceffbcbbef662fa52e5baa7e",
+    "inputs.py": "0119da2b0bab6bc7f469b4db715288c11fd594b55c2bed17d71bda793256387f",
+    "qwen_pairs.py": "2fb61a032455e47edfcc485fee892d8e5a3e7d62c34b7a81026d30aae9a880c6",
+    "retrieval.py": "8651d090a95ee35080a87bdb4a4c25e684b007620cb43ca140e1d497e9cca4a2",
+    "test_multiview.py": "6f17e539060d4f581ad8e7802cb0d32d6f1e3ac6b2c3d30145baad1fe99a7e88",
+    "train_round.py": "e20b93b4763ed3892b211a9a7310c5eda56326d8f938f2b61b83bc26d71cb678"
+  },
+  "official_validation_or_test_used": false
+}

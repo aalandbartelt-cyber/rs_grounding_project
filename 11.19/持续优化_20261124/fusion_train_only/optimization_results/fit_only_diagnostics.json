@@ -1,0 +1,23 @@
+{
+  "scope": "fit-only diagnostic, no internal-dev labels used",
+  "fit_images": 33,
+  "fit_queries": 54,
+  "unique_query_texts": 18,
+  "query_image_groups": 49,
+  "duplicated_query_image_groups": 4,
+  "retrieval_text_identical_query_ceiling": {
+    "R@1": 0.3888888888888889,
+    "R@5": 0.8333333333333334,
+    "weighted_retrieval_out_of_0_3": 0.20555555555555557
+  },
+  "candidate_localization_ceiling_with_one_box_per_query_out_of_0_7": 0.6351852284537421,
+  "localization_candidate_scales": [
+    0.9,
+    0.95,
+    1.0,
+    1.05
+  ],
+  "diagnostic_uses_fit_ground_truth_to_compute_an_oracle_ceiling": true,
+  "oracle_is_not_a_model_or_achieved_score": true,
+  "official_validation_or_test_used": false
+}

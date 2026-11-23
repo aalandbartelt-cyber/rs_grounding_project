@@ -1,0 +1,99 @@
+{
+  "verified_at_utc": "2026-11-23T07:35:19.866376+00:00",
+  "all_score_arithmetic_matches": true,
+  "all49_cv_is_out_of_fold": true,
+  "all49_cv_groups_preserved": true,
+  "augmentation_used_original_fit_only": true,
+  "all_accesses_original_public_train_only": true,
+  "official_validation_or_test_used": false,
+  "training_data_sha256_unchanged": true,
+  "data_access_logs": [
+    "augmentation_data_access.json",
+    "fit_visual_diagnostics_data_access.json",
+    "full_gallery_features_data_access.json",
+    "qwen_evidence_data_access.json",
+    "region_features_data_access.json",
+    "visual_lora_inference_data_access.json",
+    "visual_lora_retrieval_features_data_access.json",
+    "visual_lora_training_data_access.json"
+  ],
+  "weight_files": {
+    "all49_cv_fold_1.pt": {
+      "bytes": 5837,
+      "sha256": "30ce76e1109f8b58184875a5c79f94515aafb001bd3b0437a6c6ea02aa1d2db2"
+    },
+    "all49_cv_fold_2.pt": {
+      "bytes": 5901,
+      "sha256": "6f38de75e97ab1aeb35b6c84b99aea223a78c76133240e6fbae54958a500b122"
+    },
+    "all49_cv_fold_3.pt": {
+      "bytes": 5901,
+      "sha256": "02c974c5163de7949578f9cfc0f5b7f152c4ce7c1a816fce9b6f8bde80d5bd8e"
+    },
+    "all49_trained_fusion.pt": {
+      "bytes": 6925,
+      "sha256": "ae920c79551ff844194b1f1134a9ec73c3ec1dfa8ad3061491be85d8be64680f"
+    },
+    "augmented_visual_adapter.pt": {
+      "bytes": 1517,
+      "sha256": "4e5d3c9c98ed5cc174713efe57c73d7a2a3a35d2ec0a672bff1efa61228ecc11"
+    },
+    "RemoteCLIP_lora_retrieval_head.pt": {
+      "bytes": 2845,
+      "sha256": "ad07d35e5373c3e63d3fbbab78102e60454a31cb2ad1519697aca3a8653c9198"
+    },
+    "RemoteCLIP_visual_lora.pt": {
+      "bytes": 1056627,
+      "sha256": "3b615179c4e008a3f7e3ca8d07d3ee1c47c50a243c3aa158b91943218ad5493b"
+    },
+    "trained_candidate_ensemble.joblib": {
+      "bytes": 387322,
+      "sha256": "6a9cf644d9b03c3d346879ee873d577a29f56b0447e64a9630825dc654989ff5"
+    },
+    "trained_fusion_final.pt": {
+      "bytes": 4045,
+      "sha256": "3beafc1f54511f250b91d6658a510b5f088ca9197bd361125933f0c37335b423"
+    },
+    "trained_fusion_heads.pt": {
+      "bytes": 3981,
+      "sha256": "8e4a3907b6a81c2c4ecedd21402326f750f13a1642c9f86b078fe9cf73bdb21a"
+    },
+    "trained_retrieval_aggregation.joblib": {
+      "bytes": 288,
+      "sha256": "3fc908f044e2f54e4aa2c9d9208e982ff2f75d86e55e05ba4d831f5c573b2fa3"
+    }
+  },
+  "packages": {
+    "torch": "2.8.0+cu126",
+    "transformers": "4.57.3",
+    "open_clip_torch": "3.2.0",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.18.1",
+    "numpy": "2.5.5",
+    "joblib": "1.6.0"
+  },
+  "visual_lora_verification": {
+    "trainable_parameters": 262144,
+    "low_rank_updates_nonzero": true,
+    "trained_on_original_33_fit_only": true
+  },
+  "code_sha256": {
+    "adapt.py": "81fa85c6dc1e0199cf264db6a32ccde45897856405229b9eb859ef41c97f285f",
+    "augment_fit.py": "6906632bd4ecf63875a5e32019e118cdbf4ffbe1a2a641937cd8b1a8d9c34073",
+    "complete_gallery.py": "8c0b52f1a1206f873897ae805c9dd73b3933ff9b33d2de9ca2357a14df07f408",
+    "cross_validate.py": "c13dae1a07efcc1393dcb39f37ae3dd0aae7d50d5fed02eafc849bd82051ee7b",
+    "data.py": "166a32c430788653819837e63aa52817b7c6f4032851f4f1a908f0525dfc9b71",
+    "ensemble.py": "0d7437b1cae94527906efd9fe2c14e99b4092782c65b9a10fecb4d18921a059c",
+    "evaluate.py": "2f435782c26c6b9fae32e421534297c5a294bfdf6d2fa429ad1e6cddf5201a77",
+    "finalize.py": "6cdb673af0fe7db8b35eca069dbbe4dc6ed3d6add3c01c4d69561b5b79753669",
+    "lora_retrieval.py": "8ba616191b229b3d75a78c72166e2b29cd00c69a8e0eaa98f3199f6eb775f81d",
+    "lora_visual.py": "d5cb73271dc28227f5d08deb66dfbd02ac2c27f15189276f98a9695db9929ba5",
+    "neural.py": "f23c556e21453d40d17175dbca6322dd194ed527ce669c220a3d3ff1f94df2f8",
+    "prepare_features.py": "ce3c54ce183b0c6c6cd9f17947f99569d3572a00da0e7cbaece0f918e644ba80",
+    "qwen_features.py": "8f7eca45139c225fce640c1af4ffc2e9560a8611db41b6ef05a3270b4d60bafe",
+    "retrieval_pool.py": "88077cd5c5f74cfb41d3b668fa4b54685129d03d7f293ee7abbaa9f4c3b374be",
+    "test_training.py": "6ab69dec43341768b03e1839bf3ba7604abcc45984a31a5c26fac22dcfd8fd41",
+    "train.py": "8f6a01a95d32ec9e7e14f4250ad88ea52a35a9ea1d86ea57d8f99d81a7fef890",
+    "tune.py": "8634db4d4749dab51c7f9f7facccc5fc0b35d5656480cb9fc3990e095a00c06b"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "selected": {
+    "method": "existing_v3_ridge",
+    "cv_grounding": 0.4851851851851852
+  },
+  "feature_kind": "scalar_relative",
+  "best_tree_candidate": {
+    "family": "extra_trees",
+    "target": "iou",
+    "max_depth": null,
+    "min_samples_leaf": 2,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4740740740740741,
+    "fold_scores": [
+      0.5,
+      0.5647058823529413,
+      0.34375
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "fit_only_baseline": {
+    "method": "training_v3 ridge",
+    "cv_grounding": 0.4851851851851852,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "selection_used": "three SIFT-scene-group folds within 33 original-train fit images",
+  "fit_images": [
+    "rs_grounding_train_v1/train/labels_json/1062.json",
+    "rs_grounding_train_v1/train/labels_json/1071.json",
+    "rs_grounding_train_v1/train/labels_json/1072.json",
+    "rs_grounding_train_v1/train/labels_json/1073.json",
+    "rs_grounding_train_v1/train/labels_json/1076.json",
+    "rs_grounding_train_v1/train/labels_json/1083.json",
+    "rs_grounding_train_v1/train/labels_json/1085.json",
+    "rs_grounding_train_v1/train/labels_json/1086.json",
+    "rs_grounding_train_v1/train/labels_json/1094.json",
+    "rs_grounding_train_v1/train/labels_json/1096.json",
+    "rs_grounding_train_v1/train/labels_json/1097.json",
+    "rs_grounding_train_v1/train/labels_json/1098.json",
+    "rs_grounding_train_v1/train/labels_json/1106.json",
+    "rs_grounding_train_v1/train/labels_json/1107.json",
+    "rs_grounding_train_v1/train/labels_json/1108.json",
+    "rs_grounding_train_v1/train/labels_json/1109.json",
+    "rs_grounding_train_v1/train/labels_json/1114.json",
+    "rs_grounding_train_v1/train/labels_json/1169.json",
+    "rs_grounding_train_v1/train/labels_json/1171.json",
+    "rs_grounding_train_v1/train/labels_json/1181.json",
+    "rs_grounding_train_v1/train/labels_json/1188.json",
+    "rs_grounding_train_v1/train/labels_json/1192.json",
+    "rs_grounding_train_v1/train/labels_json/1195.json",
+    "rs_grounding_train_v1/train/labels_json/1196.json",
+    "rs_grounding_train_v1/train/labels_json/1198.json",
+    "rs_grounding_train_v1/train/labels_json/1201.json",
+    "rs_grounding_train_v1/train/labels_json/1254.json",
+    "rs_grounding_train_v1/train/labels_json/1283.json",
+    "rs_grounding_train_v1/train/labels_json/1287.json",
+    "rs_grounding_train_v1/train/labels_json/1288.json",
+    "rs_grounding_train_v1/train/labels_json/1298.json",
+    "rs_grounding_train_v1/train/labels_json/1301.json",
+    "rs_grounding_train_v1/train/labels_json/901.json"
+  ],
+  "internal_dev_images": [
+    "rs_grounding_train_v1/train/labels_json/1091.json",
+    "rs_grounding_train_v1/train/labels_json/1103.json",
+    "rs_grounding_train_v1/train/labels_json/1104.json",
+    "rs_grounding_train_v1/train/labels_json/1191.json",
+    "rs_grounding_train_v1/train/labels_json/1197.json",
+    "rs_grounding_train_v1/train/labels_json/1248.json",
+    "rs_grounding_train_v1/train/labels_json/1262.json",
+    "rs_grounding_train_v1/train/labels_json/1263.json",
+    "rs_grounding_train_v1/train/labels_json/1273.json",
+    "rs_grounding_train_v1/train/labels_json/1286.json",
+    "rs_grounding_train_v1/train/labels_json/1294.json",
+    "rs_grounding_train_v1/train/labels_json/1149.json",
+    "rs_grounding_train_v1/train/labels_json/1159.json",
+    "rs_grounding_train_v1/train/labels_json/1160.json",
+    "rs_grounding_train_v1/train/labels_json/1177.json",
+    "rs_grounding_train_v1/train/labels_json/1179.json"
+  ],
+  "official_validation_or_test_used": false,
+  "development_score_recomputed": false,
+  "limitation": "Earlier rounds consulted the same internal-dev split.",
+  "frozen_at_utc": "2026-11-23T18:10:16.330273+00:00",
+  "code_sha256": "3bd53e43c157a48e324430827fc10e5697e305b328ff2e6d434ae7b08933dcd4"
+}

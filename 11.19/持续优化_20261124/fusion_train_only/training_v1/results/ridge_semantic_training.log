@@ -1,0 +1,12 @@
+Starting fit grounding {'queries': 54, 'Acc@0.5': 0.6481481481481481, 'Acc@0.75': 0.5740740740740741, 'weighted_grounding': 0.4462962962962963}
+Grouped CV scalar/iou: best grounding 0.4685
+Grouped CV scalar/threshold: best grounding 0.4685
+Grouped CV vision/iou: best grounding 0.4685
+Grouped CV vision/threshold: best grounding 0.4685
+Grouped CV conditioned/iou: best grounding 0.4685
+Grouped CV conditioned/threshold: best grounding 0.4685
+Selected grounding {'kind': 'scalar', 'alpha': 0.01, 'target': 'iou', 'fraction': 0.1, 'scale': 0.95, 'cv_grounding': 0.46851851851851856} box regression {'alpha': 1.0, 'fraction': 0.0, 'cv_grounding': 0.46851851851851856}
+Grouped retrieval CV scalar: best weighted recall 0.1722
+Grouped retrieval CV vision: best weighted recall 0.1722
+Grouped retrieval CV conditioned: best weighted recall 0.1722
+Frozen checkpoint {'grounding': {'kind': 'scalar', 'alpha': 0.01, 'target': 'iou', 'fraction': 0.1, 'scale': 0.95, 'cv_grounding': 0.46851851851851856}, 'regression': {'alpha': 1.0, 'fraction': 0.0, 'cv_grounding': 0.46851851851851856}, 'retrieval': {'kind': 'scalar', 'alpha': 0.01, 'fraction': 1.0, 'cv_retrieval': 0.17222222222222225}, 'selection_used': 'grouped cross-validation within 33 fit images only', 'internal_dev_used_for_fitting_or_selection': False, 'frozen_at_utc': '2026-11-23T07:11:29.368000+00:00'}

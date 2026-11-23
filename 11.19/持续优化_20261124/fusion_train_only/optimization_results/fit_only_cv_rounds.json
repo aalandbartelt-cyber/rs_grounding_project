@@ -1,0 +1,70 @@
+[
+  {
+    "round": "v13",
+    "name": "成对 LoRA 损失",
+    "candidate_configurations": 12,
+    "fit_only_cv_grounding_max_out_of_0_7": 0.4574074074074075,
+    "promotion_baseline_out_of_0_7": 0.45925925925925926,
+    "internal_dev_evaluated": false,
+    "development_total_out_of_1": 0.5259259259259259,
+    "development_total_source": "retained prior best, not a new evaluation",
+    "selection_source": "training_v13/results/selection.json"
+  },
+  {
+    "round": "v14",
+    "name": "非线性候选排序",
+    "candidate_configurations": 320,
+    "fit_only_cv_grounding_max_out_of_0_7": 0.4740740740740741,
+    "promotion_baseline_out_of_0_7": 0.4851851851851852,
+    "internal_dev_evaluated": false,
+    "development_total_out_of_1": 0.5259259259259259,
+    "development_total_source": "retained prior best, not a new evaluation",
+    "selection_source": "training_v14/results/selection.json"
+  },
+  {
+    "round": "v15",
+    "name": "DINOv2 + RemoteCLIP 直接融合",
+    "candidate_configurations": 600,
+    "fit_only_cv_grounding_max_out_of_0_7": 0.4722222222222222,
+    "promotion_baseline_out_of_0_7": 0.4851851851851852,
+    "internal_dev_evaluated": false,
+    "development_total_out_of_1": 0.5259259259259259,
+    "development_total_source": "retained prior best, not a new evaluation",
+    "selection_source": "training_v15/results/selection.json"
+  },
+  {
+    "round": "v16",
+    "name": "查询条件化 DINOv2 + CLIP",
+    "candidate_configurations": 640,
+    "fit_only_cv_grounding_max_out_of_0_7": 0.48333333333333334,
+    "promotion_baseline_out_of_0_7": 0.4851851851851852,
+    "internal_dev_evaluated": false,
+    "development_total_out_of_1": 0.5259259259259259,
+    "development_total_source": "retained prior best, not a new evaluation",
+    "selection_source": "training_v16/results/selection.json"
+  },
+  {
+    "round": "v17",
+    "name": "更长训练的候选排序 LoRA",
+    "candidate_configurations": 12,
+    "fit_only_cv_grounding_max_out_of_0_7": 0.4314814814814815,
+    "promotion_baseline_out_of_0_7": 0.4851851851851852,
+    "internal_dev_evaluated": false,
+    "development_total_out_of_1": 0.5259259259259259,
+    "development_total_source": "retained prior best, not a new evaluation",
+    "selection_source": "training_v17/results/selection.json"
+  },
+  {
+    "round": "v18",
+    "name": "SigLIP 2 定位与检索融合",
+    "candidate_configurations": 491,
+    "fit_only_cv_grounding_max_out_of_0_7": 0.46111111111111114,
+    "promotion_baseline_out_of_0_7": 0.4851851851851852,
+    "fit_only_cv_retrieval_max_out_of_0_3": 0.16296296296296298,
+    "retrieval_promotion_baseline_out_of_0_3": 0.16666666666666666,
+    "internal_dev_evaluated": false,
+    "development_total_out_of_1": 0.5259259259259259,
+    "development_total_source": "retained prior best, not a new evaluation",
+    "selection_source": "training_v18/results/selection.json"
+  }
+]

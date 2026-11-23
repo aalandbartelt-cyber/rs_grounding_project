@@ -1,0 +1,4 @@
+Scene fold 1: 0.5704/1, gallery=17, queries=27
+Scene fold 2: 0.5321/1, gallery=16, queries=28
+Scene fold 3: 0.5346/1, gallery=16, queries=26
+All 49 original-training grouped CV: 0.5457/1 {'R@1': 12, 'R@5': 42, 'Acc@0.5': 51, 'Acc@0.75': 40}

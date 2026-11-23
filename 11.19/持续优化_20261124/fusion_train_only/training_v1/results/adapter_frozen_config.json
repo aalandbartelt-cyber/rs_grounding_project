@@ -1,0 +1,9 @@
+{
+  "grounding": {
+    "family": "old",
+    "cv_grounding": 0.46851851851851856
+  },
+  "selection_used": "three grouped folds within 33 fit images; augmented crops exclude each validation group",
+  "official_validation_or_test_used": false,
+  "frozen_at_utc": "2026-11-23T07:20:26.863543+00:00"
+}

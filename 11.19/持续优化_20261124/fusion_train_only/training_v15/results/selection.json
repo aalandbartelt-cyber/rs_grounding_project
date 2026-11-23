@@ -1,0 +1,27 @@
+{
+  "decision": "retain_current_best",
+  "fit_only_baseline": 0.4851851851851852,
+  "best_dino_candidate": {
+    "feature_kind": "dino_cls_scalar",
+    "target": "utility",
+    "alpha": 10.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4722222222222222,
+    "fold_scores": [
+      0.5285714285714286,
+      0.5176470588235295,
+      0.35
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "development_score_recomputed": false,
+  "retained_method": "v2_retained",
+  "retained_development_score_out_of_1": 0.5259259259259259,
+  "retained_score_source": "optimization_results/current_best.json",
+  "official_validation_or_test_used": false
+}

@@ -1,0 +1,81 @@
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Listwise LoRA lr=0.0005 epoch 1/12 loss=1.44001
+Listwise LoRA lr=0.0005 epoch 2/12 loss=1.40029
+Listwise LoRA lr=0.0005 epoch 3/12 loss=1.39177
+Listwise LoRA lr=0.0005 epoch 4/12 loss=1.32936
+Listwise LoRA lr=0.0005 epoch 5/12 loss=1.28376
+Listwise LoRA lr=0.0005 epoch 6/12 loss=1.26572
+Listwise LoRA lr=0.0005 epoch 7/12 loss=1.22733
+Listwise LoRA lr=0.0005 epoch 8/12 loss=1.30839
+Listwise LoRA lr=0.0005 epoch 9/12 loss=1.27274
+Listwise LoRA lr=0.0005 epoch 10/12 loss=1.28874
+Listwise LoRA lr=0.0005 epoch 11/12 loss=1.23714
+Listwise LoRA lr=0.0005 epoch 12/12 loss=1.20277
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Listwise LoRA lr=0.0005 epoch 1/12 loss=1.29979
+Listwise LoRA lr=0.0005 epoch 2/12 loss=1.24045
+Listwise LoRA lr=0.0005 epoch 3/12 loss=1.29146
+Listwise LoRA lr=0.0005 epoch 4/12 loss=1.24388
+Listwise LoRA lr=0.0005 epoch 5/12 loss=1.22122
+Listwise LoRA lr=0.0005 epoch 6/12 loss=1.26347
+Listwise LoRA lr=0.0005 epoch 7/12 loss=1.23491
+Listwise LoRA lr=0.0005 epoch 8/12 loss=1.21252
+Listwise LoRA lr=0.0005 epoch 9/12 loss=1.23618
+Listwise LoRA lr=0.0005 epoch 10/12 loss=1.20504
+Listwise LoRA lr=0.0005 epoch 11/12 loss=1.25305
+Listwise LoRA lr=0.0005 epoch 12/12 loss=1.17082
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Listwise LoRA lr=0.0005 epoch 1/12 loss=1.23269
+Listwise LoRA lr=0.0005 epoch 2/12 loss=1.18550
+Listwise LoRA lr=0.0005 epoch 3/12 loss=1.16994
+Listwise LoRA lr=0.0005 epoch 4/12 loss=1.17405
+Listwise LoRA lr=0.0005 epoch 5/12 loss=1.14796
+Listwise LoRA lr=0.0005 epoch 6/12 loss=1.16097
+Listwise LoRA lr=0.0005 epoch 7/12 loss=1.12687
+Listwise LoRA lr=0.0005 epoch 8/12 loss=1.13063
+Listwise LoRA lr=0.0005 epoch 9/12 loss=1.08378
+Listwise LoRA lr=0.0005 epoch 10/12 loss=1.06809
+Listwise LoRA lr=0.0005 epoch 11/12 loss=1.12111
+Listwise LoRA lr=0.0005 epoch 12/12 loss=1.12981
+Completed listwise lr=0.0005: best grouped CV 0.4852
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Listwise LoRA lr=0.002 epoch 1/12 loss=1.46961
+Listwise LoRA lr=0.002 epoch 2/12 loss=1.45672
+Listwise LoRA lr=0.002 epoch 3/12 loss=1.49480
+Listwise LoRA lr=0.002 epoch 4/12 loss=1.58544
+Listwise LoRA lr=0.002 epoch 5/12 loss=1.50651
+Listwise LoRA lr=0.002 epoch 6/12 loss=1.37878
+Listwise LoRA lr=0.002 epoch 7/12 loss=1.29289
+Listwise LoRA lr=0.002 epoch 8/12 loss=1.31036
+Listwise LoRA lr=0.002 epoch 9/12 loss=1.30662
+Listwise LoRA lr=0.002 epoch 10/12 loss=1.61366
+Listwise LoRA lr=0.002 epoch 11/12 loss=1.42025
+Listwise LoRA lr=0.002 epoch 12/12 loss=1.88395
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Listwise LoRA lr=0.002 epoch 1/12 loss=1.35563
+Listwise LoRA lr=0.002 epoch 2/12 loss=1.30365
+Listwise LoRA lr=0.002 epoch 3/12 loss=1.27885
+Listwise LoRA lr=0.002 epoch 4/12 loss=1.36351
+Listwise LoRA lr=0.002 epoch 5/12 loss=1.31171
+Listwise LoRA lr=0.002 epoch 6/12 loss=1.34857
+Listwise LoRA lr=0.002 epoch 7/12 loss=1.33648
+Listwise LoRA lr=0.002 epoch 8/12 loss=1.27512
+Listwise LoRA lr=0.002 epoch 9/12 loss=1.25040
+Listwise LoRA lr=0.002 epoch 10/12 loss=1.27757
+Listwise LoRA lr=0.002 epoch 11/12 loss=1.27022
+Listwise LoRA lr=0.002 epoch 12/12 loss=1.38252
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+Listwise LoRA lr=0.002 epoch 1/12 loss=1.27669
+Listwise LoRA lr=0.002 epoch 2/12 loss=1.21377
+Listwise LoRA lr=0.002 epoch 3/12 loss=1.21590
+Listwise LoRA lr=0.002 epoch 4/12 loss=1.26808
+Listwise LoRA lr=0.002 epoch 5/12 loss=1.29690
+Listwise LoRA lr=0.002 epoch 6/12 loss=1.63350
+Listwise LoRA lr=0.002 epoch 7/12 loss=1.22468
+Listwise LoRA lr=0.002 epoch 8/12 loss=1.35343
+Listwise LoRA lr=0.002 epoch 9/12 loss=1.21577
+Listwise LoRA lr=0.002 epoch 10/12 loss=1.21585
+Listwise LoRA lr=0.002 epoch 11/12 loss=1.22463
+Listwise LoRA lr=0.002 epoch 12/12 loss=1.24543
+Completed listwise lr=0.002: best grouped CV 0.4852
+No longer listwise LoRA candidate beat grouped fit-only baseline.

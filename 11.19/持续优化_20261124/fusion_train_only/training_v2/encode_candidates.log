@@ -1,0 +1,6 @@
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+RemoteCLIP: consistently encoded 73 candidate sets
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14'. Model initialized randomly.
+RemoteCLIP_LoRA: consistently encoded 73 candidate sets
+WARNING:root:No pretrained weights loaded for model 'ViT-L-14-336'. Model initialized randomly.
+GeoRSCLIP: consistently encoded 73 candidate sets

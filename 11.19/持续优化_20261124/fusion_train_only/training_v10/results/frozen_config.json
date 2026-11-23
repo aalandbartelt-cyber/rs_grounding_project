@@ -1,0 +1,86 @@
+{
+  "selected": {
+    "method": "baseline",
+    "amount": 0.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.16666666666666666,
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.20588235294117646,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "fit_images": [
+    "rs_grounding_train_v1/train/labels_json/1062.json",
+    "rs_grounding_train_v1/train/labels_json/1071.json",
+    "rs_grounding_train_v1/train/labels_json/1072.json",
+    "rs_grounding_train_v1/train/labels_json/1073.json",
+    "rs_grounding_train_v1/train/labels_json/1076.json",
+    "rs_grounding_train_v1/train/labels_json/1083.json",
+    "rs_grounding_train_v1/train/labels_json/1085.json",
+    "rs_grounding_train_v1/train/labels_json/1086.json",
+    "rs_grounding_train_v1/train/labels_json/1094.json",
+    "rs_grounding_train_v1/train/labels_json/1096.json",
+    "rs_grounding_train_v1/train/labels_json/1097.json",
+    "rs_grounding_train_v1/train/labels_json/1098.json",
+    "rs_grounding_train_v1/train/labels_json/1106.json",
+    "rs_grounding_train_v1/train/labels_json/1107.json",
+    "rs_grounding_train_v1/train/labels_json/1108.json",
+    "rs_grounding_train_v1/train/labels_json/1109.json",
+    "rs_grounding_train_v1/train/labels_json/1114.json",
+    "rs_grounding_train_v1/train/labels_json/1169.json",
+    "rs_grounding_train_v1/train/labels_json/1171.json",
+    "rs_grounding_train_v1/train/labels_json/1181.json",
+    "rs_grounding_train_v1/train/labels_json/1188.json",
+    "rs_grounding_train_v1/train/labels_json/1192.json",
+    "rs_grounding_train_v1/train/labels_json/1195.json",
+    "rs_grounding_train_v1/train/labels_json/1196.json",
+    "rs_grounding_train_v1/train/labels_json/1198.json",
+    "rs_grounding_train_v1/train/labels_json/1201.json",
+    "rs_grounding_train_v1/train/labels_json/1254.json",
+    "rs_grounding_train_v1/train/labels_json/1283.json",
+    "rs_grounding_train_v1/train/labels_json/1287.json",
+    "rs_grounding_train_v1/train/labels_json/1288.json",
+    "rs_grounding_train_v1/train/labels_json/1298.json",
+    "rs_grounding_train_v1/train/labels_json/1301.json",
+    "rs_grounding_train_v1/train/labels_json/901.json"
+  ],
+  "internal_dev_images": [
+    "rs_grounding_train_v1/train/labels_json/1091.json",
+    "rs_grounding_train_v1/train/labels_json/1103.json",
+    "rs_grounding_train_v1/train/labels_json/1104.json",
+    "rs_grounding_train_v1/train/labels_json/1191.json",
+    "rs_grounding_train_v1/train/labels_json/1197.json",
+    "rs_grounding_train_v1/train/labels_json/1248.json",
+    "rs_grounding_train_v1/train/labels_json/1262.json",
+    "rs_grounding_train_v1/train/labels_json/1263.json",
+    "rs_grounding_train_v1/train/labels_json/1273.json",
+    "rs_grounding_train_v1/train/labels_json/1286.json",
+    "rs_grounding_train_v1/train/labels_json/1294.json",
+    "rs_grounding_train_v1/train/labels_json/1149.json",
+    "rs_grounding_train_v1/train/labels_json/1159.json",
+    "rs_grounding_train_v1/train/labels_json/1160.json",
+    "rs_grounding_train_v1/train/labels_json/1177.json",
+    "rs_grounding_train_v1/train/labels_json/1179.json"
+  ],
+  "selection_used": "three scene-group folds within 33 fit images only",
+  "official_validation_or_test_used": false,
+  "qwen_pair_preferences": "Qwen3-VL compares only top-8 predicted gallery images; candidate and answer order are swapped, then scores symmetrized",
+  "limitation": "Repeated internal-development rounds have informed the research direction.",
+  "pair_feature_sha256": "8a0dfa20acd35102a166c2c1f69d135aa41b2f82cdb22cc757260c5a9c892974",
+  "frozen_at_utc": "2026-11-23T17:12:13.302377+00:00",
+  "code_sha256": {
+    "training_v10\\code\\train_gallery_ranker.py": "10415585c333074dc270ef1022a9b8d05f2d46e4a5eb4c975fbbdd3acee27f3e",
+    "training_v10\\code\\encode_gallery_pairs.py": "8befa37e083e036bf93ebabdf6907765521a646f504fb7e061453e2a4e573b0b"
+  }
+}

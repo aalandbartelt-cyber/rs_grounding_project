@@ -1,0 +1,6456 @@
+{
+  "grounding": [
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.40740740740740733
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.40740740740740733
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4055555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4333333333333333
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.4055555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.40185185185185185
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.40740740740740733
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.40740740740740733
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4314814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3833333333333333
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.45185185185185184
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44999999999999996
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3907407407407407
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4111111111111111
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44999999999999996
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44629629629629625
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.387037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.45185185185185184
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4611111111111111
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4611111111111111
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4351851851851852
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40185185185185185
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.39629629629629626
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.43703703703703706
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3833333333333333
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.38518518518518513
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.46851851851851856
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.39629629629629626
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3833333333333333
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.4074074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.43703703703703706
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.37777777777777777
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.43703703703703706
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.37962962962962954
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.44999999999999996
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.44999999999999996
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.3907407407407407
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4111111111111111
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44814814814814813
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44629629629629625
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.387037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4055555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4351851851851852
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4333333333333333
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.36666666666666664
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.4055555555555556
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44814814814814813
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44814814814814813
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3888888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.3888888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.3888888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.39629629629629626
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.37407407407407406
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.38148148148148153
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.41481481481481486
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.3833333333333333
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3592592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3944444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3722222222222222
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.40185185185185185
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3833333333333333
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.41481481481481486
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3611111111111111
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.4074074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3888888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4314814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41481481481481486
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3833333333333333
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.3888888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.3907407407407407
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.3722222222222222
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3944444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.36851851851851847
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.38703703703703707
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.41481481481481486
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.3833333333333333
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.35370370370370374
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.4166666666666667
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.4
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4055555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.43703703703703706
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4074074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.4055555555555556
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3907407407407407
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.37962962962962954
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4592592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4592592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.4333333333333333
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.4074074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.4314814814814815
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4111111111111111
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.43703703703703706
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.4148148148148148
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.3888888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.387037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3925925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39629629629629626
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3722222222222222
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3944444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39629629629629626
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3703703703703703
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.4074074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40185185185185185
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.37962962962962965
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.41481481481481486
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.41111111111111115
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39629629629629626
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3648148148148148
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.387037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4314814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4166666666666667
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.38518518518518513
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "iou",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.40185185185185185
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.3907407407407407
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.3722222222222222
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3944444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.36851851851851847
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39629629629629626
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.39444444444444443
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.36666666666666664
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.4074074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.40370370370370373
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.43703703703703706
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3925925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42407407407407405
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.40925925925925927
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3759259259259259
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4574074074074074
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42222222222222217
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.42592592592592593
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.4055555555555556
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.3888888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.42962962962962964
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.42777777777777776
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.412962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.3814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4555555555555555
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.4092592592592592
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.4388888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.1,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 0.95,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.0,
+      "cv_grounding": 0.4462962962962963
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.05,
+      "cv_grounding": 0.4425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.25,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 0.5,
+      "scale": 1.15,
+      "cv_grounding": 0.41851851851851846
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 1.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.85,
+      "cv_grounding": 0.39814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 0.95,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.0,
+      "cv_grounding": 0.4444444444444444
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.05,
+      "cv_grounding": 0.44074074074074077
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "target": "threshold",
+      "fraction": 2.0,
+      "scale": 1.15,
+      "cv_grounding": 0.42037037037037034
+    }
+  ],
+  "retrieval": [
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12222222222222223
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "fraction": 0.1,
+      "cv_retrieval": 0.15000000000000002
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "fraction": 0.3,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "fraction": 1.0,
+      "cv_retrieval": 0.17222222222222225
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.01,
+      "fraction": 3.0,
+      "cv_retrieval": 0.16481481481481486
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12222222222222223
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "fraction": 0.1,
+      "cv_retrieval": 0.15000000000000002
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "fraction": 0.3,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "fraction": 1.0,
+      "cv_retrieval": 0.17222222222222225
+    },
+    {
+      "kind": "scalar",
+      "alpha": 0.1,
+      "fraction": 3.0,
+      "cv_retrieval": 0.16481481481481486
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12222222222222223
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.15000000000000002
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.15000000000000002
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.16851851851851854
+    },
+    {
+      "kind": "scalar",
+      "alpha": 1.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.16851851851851854
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.11851851851851852
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.15185185185185188
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.1574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 10.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.1574074074074074
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.11666666666666668
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.11851851851851852
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.1425925925925926
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.15185185185185188
+    },
+    {
+      "kind": "scalar",
+      "alpha": 100.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12962962962962965
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "fraction": 0.1,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "fraction": 0.3,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "fraction": 1.0,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.01,
+      "fraction": 3.0,
+      "cv_retrieval": 0.1462962962962963
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12592592592592594
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "fraction": 0.1,
+      "cv_retrieval": 0.13333333333333336
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "fraction": 0.3,
+      "cv_retrieval": 0.1462962962962963
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "fraction": 1.0,
+      "cv_retrieval": 0.1425925925925926
+    },
+    {
+      "kind": "vision",
+      "alpha": 0.1,
+      "fraction": 3.0,
+      "cv_retrieval": 0.1462962962962963
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12037037037037039
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.13703703703703704
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 1.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.15
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.11481481481481481
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.13333333333333336
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 10.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.1111111111111111
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.11481481481481481
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.1277777777777778
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "vision",
+      "alpha": 100.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.14814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12592592592592594
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "fraction": 0.1,
+      "cv_retrieval": 0.14074074074074078
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "fraction": 0.3,
+      "cv_retrieval": 0.13703703703703704
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "fraction": 1.0,
+      "cv_retrieval": 0.1388888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.01,
+      "fraction": 3.0,
+      "cv_retrieval": 0.1388888888888889
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12962962962962965
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "fraction": 0.1,
+      "cv_retrieval": 0.13333333333333336
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "fraction": 0.3,
+      "cv_retrieval": 0.1425925925925926
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "fraction": 1.0,
+      "cv_retrieval": 0.14814814814814814
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 0.1,
+      "fraction": 3.0,
+      "cv_retrieval": 0.15000000000000002
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.12222222222222223
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.13518518518518519
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.15185185185185188
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.15000000000000002
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 1.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.11481481481481481
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.1277777777777778
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.14444444444444446
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.1537037037037037
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 10.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.15000000000000002
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "fraction": 0.03,
+      "cv_retrieval": 0.11296296296296297
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "fraction": 0.1,
+      "cv_retrieval": 0.11481481481481481
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "fraction": 0.3,
+      "cv_retrieval": 0.11666666666666668
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "fraction": 1.0,
+      "cv_retrieval": 0.13518518518518519
+    },
+    {
+      "kind": "conditioned",
+      "alpha": 100.0,
+      "fraction": 3.0,
+      "cv_retrieval": 0.15000000000000002
+    }
+  ]
+}

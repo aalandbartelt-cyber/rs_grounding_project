@@ -1,0 +1,4322 @@
+[
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.13333333333333333,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.12352941176470589,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.11904761904761904,
+      0.11176470588235295,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1285714285714286,
+      0.11176470588235295,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.11176470588235295,
+      0.16875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.12407407407407407,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.11176470588235295,
+      0.15625
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.11904761904761904,
+      0.14705882352941177,
+      0.16875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.14705882352941177,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.14444444444444443,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.14705882352941177,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.14444444444444443,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.14705882352941177,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.14444444444444443,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.14705882352941177,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.14705882352941177,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.14074074074074075,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.14074074074074075,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.14074074074074075,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.15294117647058827,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.14117647058823532,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.15294117647058825,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.14074074074074078,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.1647058823529412,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.09411764705882353,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.11296296296296297,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.0823529411764706,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.0823529411764706,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.0823529411764706,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.0823529411764706,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.12037037037037039,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.12352941176470589,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.12222222222222223,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.12222222222222223,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.12222222222222223,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.12222222222222223,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.14705882352941177,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.14705882352941177,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.13529411764705881,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.13529411764705881,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.13529411764705881,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.1470588235294118,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.10925925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.09411764705882353,
+      0.16875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.10588235294117647,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.11296296296296297,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.09411764705882353,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.11296296296296297,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.09411764705882353,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.09411764705882353,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.12037037037037039,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.12352941176470589,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.12352941176470589,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.12407407407407407,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.11176470588235295,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.12352941176470589,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.12352941176470589,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.10476190476190476,
+      0.14705882352941177,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.14705882352941177,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.14705882352941177,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.13529411764705881,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.13529411764705881,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.1647058823529412,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.1647058823529412,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.17647058823529413,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.12962962962962962,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058825,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.12962962962962962,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058825,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.12962962962962962,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058825,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.12962962962962962,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058825,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.14705882352941177,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.14705882352941177,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.13333333333333333,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.1411764705882353,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.13333333333333333,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.1411764705882353,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.15294117647058825,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.13333333333333336,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.13529411764705884,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.13529411764705884,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.13529411764705884,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.13529411764705884,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.17058823529411768,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.11851851851851852,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.1,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.12592592592592594,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.1,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.12592592592592594,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.1,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.12222222222222223,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.1,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.13529411764705884,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.13148148148148148,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.1411764705882353,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.14074074074074075,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428573,
+      0.1647058823529412,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.1647058823529412,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.1647058823529412,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.1647058823529412,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.14074074074074075,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.1647058823529412,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.17058823529411768,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.17058823529411768,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.17058823529411768,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.14705882352941177,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.14705882352941177,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.14705882352941177,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.17500000000000002
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.13333333333333333,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.14117647058823532,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.13333333333333333,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.14117647058823532,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.1875
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.1647058823529412,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.1647058823529412,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.13703703703703704,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.17058823529411768,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.14705882352941177,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.13529411764705881,
+      0.2
+    ]
+  },
+  {
+    "objective": "pairwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1388888888888889,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.13529411764705881,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.12222222222222225,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058827,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15882352941176472,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.12962962962962965,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.12962962962962965,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.12222222222222225,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058827,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.12962962962962965,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.1314814814814815,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15882352941176472,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.12962962962962965,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.12962962962962965,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058825,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1240740740740741,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.15294117647058827,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1240740740740741,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058827,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.12962962962962965,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.11296296296296297,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.11764705882352941,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.10925925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.10588235294117647,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1240740740740741,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.15294117647058827,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.12962962962962965,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1277777777777778,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.14074074074074075,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.11296296296296297,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.11764705882352941,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.13888888888888892,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15294117647058827,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1647058823529412,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.13518518518518519,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1470588235294118,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.13703703703703707,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15294117647058827,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.13703703703703707,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15294117647058827,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.14814814814814814,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.1647058823529412,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.12941176470588237,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.13888888888888892,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15294117647058827,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1425925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "exact",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.1,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.12222222222222225,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.1470588235294118,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.11481481481481483,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.13529411764705884,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.11296296296296299,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.12352941176470589,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.10925925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.05714285714285715,
+      0.12352941176470589,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.10555555555555557,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.05714285714285715,
+      0.11176470588235295,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.1240740740740741,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.15882352941176472,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.11851851851851852,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.13529411764705884,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.11666666666666668,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.13529411764705884,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.11296296296296299,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.12352941176470589,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.10555555555555557,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.05714285714285715,
+      0.11176470588235295,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.12037037037037039,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.15294117647058827,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.12222222222222225,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.15294117647058827,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.11481481481481483,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.13529411764705884,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.10925925925925928,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.11176470588235295,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.10185185185185187,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.05714285714285715,
+      0.1,
+      0.16250000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.11296296296296297,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.11764705882352941,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.10925925925925926,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.11764705882352941,
+      0.15000000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.12592592592592594,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.1647058823529412,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.11851851851851854,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.1470588235294118,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.11481481481481483,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.06666666666666668,
+      0.13529411764705884,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.18823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.17058823529411768,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.17058823529411768,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.14074074074074075,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.17647058823529413,
+      0.18125000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.17058823529411768,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1240740740740741,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058827,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.13333333333333336,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.1647058823529412,
+      0.16875
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.17647058823529413,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1537037037037037,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.17058823529411768,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.03,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.18823529411764706,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.1,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.17058823529411768,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 0.3,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 1.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.03,
+    "amount": 3.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.03,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08095238095238096,
+      0.18823529411764706,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.1,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.17058823529411768,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 0.3,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 1.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 0.3,
+    "amount": 3.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.18823529411764706,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.15000000000000002,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.08571428571428572,
+      0.1823529411764706,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 3.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.1462962962962963,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09523809523809523,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.03,
+    "cv_retrieval": 0.1240740740740741,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.0761904761904762,
+      0.15294117647058827,
+      0.15625000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.1,
+    "cv_retrieval": 0.13703703703703707,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.17058823529411768,
+      0.18750000000000003
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 0.3,
+    "cv_retrieval": 0.1574074074074074,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.18823529411764706,
+      0.21250000000000002
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 1.0,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15882352941176472,
+      0.2
+    ]
+  },
+  {
+    "objective": "pointwise",
+    "target": "semantic",
+    "representation": "raw_rank",
+    "alpha": 30.0,
+    "amount": 3.0,
+    "cv_retrieval": 0.14444444444444446,
+    "fold_queries": [
+      21,
+      17,
+      16
+    ],
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.15882352941176472,
+      0.2
+    ]
+  }
+]

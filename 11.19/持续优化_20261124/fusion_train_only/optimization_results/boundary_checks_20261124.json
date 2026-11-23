@@ -1,0 +1,14 @@
+{
+  "internal_dev_supervision_rejected": [
+    "v13",
+    "v14",
+    "v15",
+    "v16",
+    "v17",
+    "v18 grounding",
+    "v18 retrieval"
+  ],
+  "syntax_files_checked": 10,
+  "passed": true,
+  "official_validation_or_test_used": false
+}

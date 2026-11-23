@@ -1,0 +1,26 @@
+{
+  "grounding": {
+    "family": "ridge",
+    "kind": "scalar",
+    "alpha": 0.01,
+    "target": "iou",
+    "fraction": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.46851851851851856
+  },
+  "retrieval": {
+    "family": "ridge",
+    "kind": "scalar",
+    "alpha": 0.01,
+    "fraction": 1.0,
+    "cv_retrieval": 0.17222222222222225
+  },
+  "regression": {
+    "alpha": 1.0,
+    "fraction": 0.0,
+    "cv_grounding": 0.46851851851851856
+  },
+  "selection_used": "three group folds within 33 fit images only",
+  "internal_dev_used_for_fitting_or_selection": false,
+  "frozen_at_utc": "2026-11-23T07:11:46.612035+00:00"
+}

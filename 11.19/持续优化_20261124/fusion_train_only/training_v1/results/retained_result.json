@@ -1,0 +1,9 @@
+{
+  "best_same_16_image_internal_dev_method": "RemoteCLIP 视觉 LoRA 微调",
+  "best_same_16_image_internal_dev_score": 0.5037037037037037,
+  "target_score": 0.6,
+  "target_met_on_same_16_images": false,
+  "all49_grouped_cv_score": 0.5456790123456791,
+  "official_validation_or_test_used": false,
+  "validation_results_used_to_retain_best_development_run": true
+}

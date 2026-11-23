@@ -1,0 +1,15 @@
+{
+  "grounding": {
+    "family": "extra",
+    "depth": 4,
+    "leaf": 2,
+    "target": "iou",
+    "fraction": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4759259259259259
+  },
+  "selection_used": "three grouped fit folds; no dev label used for these parameters",
+  "frozen_at_utc": "2026-11-23T07:17:20.524016+00:00",
+  "previous_internal_dev_score_seen": 0.5,
+  "limitation": "Internal-dev error analysis motivated this model family; result is iterative development."
+}

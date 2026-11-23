@@ -1,0 +1,23 @@
+{
+  "decision": "retain_current_best",
+  "fit_only_baseline": 0.4851851851851852,
+  "best_candidate": {
+    "learning_rate": 0.0005,
+    "epochs": 6,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814815,
+    "fold_scores": [
+      0.49523809523809526,
+      0.4705882352941176,
+      0.30625
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  "development_score_recomputed": false,
+  "retained_development_score_out_of_1": 0.5259259259259259,
+  "official_validation_or_test_used": false
+}

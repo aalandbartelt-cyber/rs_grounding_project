@@ -1,0 +1,7 @@
+{
+  "queries": 54,
+  "Acc@0.5": 0.5555555555555556,
+  "Acc@0.75": 0.4074074074074074,
+  "weighted_grounding": 0.37407407407407406,
+  "mean_display_order_bias_in_logit_units": 1.2929990339136226
+}

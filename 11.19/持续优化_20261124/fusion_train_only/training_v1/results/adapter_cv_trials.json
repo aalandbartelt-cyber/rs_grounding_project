@@ -1,0 +1,5402 @@
+[
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.45185185185185184
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.42592592592592593
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.4055555555555556
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.37962962962962965
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.41481481481481486
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3592592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.3925925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.3888888888888889
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3759259259259259
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.36111111111111105
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.3925925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.3888888888888889
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.45185185185185184
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.4314814814814815
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3648148148148148
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.3944444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3833333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.38148148148148153
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.38148148148148153
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.36851851851851847
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.35740740740740734
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4111111111111111
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.45185185185185184
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.41851851851851846
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.3648148148148148
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4055555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4055555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.3907407407407407
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.3814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3537037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.3925925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.3944444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.38148148148148153
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.36851851851851847
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37962962962962965
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.412962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3907407407407407
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3777777777777778
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41481481481481486
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.412962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.412962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.46851851851851856
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.46851851851851856
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.4537037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.4333333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3777777777777778
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4462962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4462962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4333333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4240740740740741
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4240740740740741
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.412962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.40185185185185185
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37592592592592594
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.40370370370370373
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.37592592592592594
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3888888888888889
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37222222222222223
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4055555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37222222222222223
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4055555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42222222222222217
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3833333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.4
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.39444444444444443
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4462962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.42407407407407405
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3833333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4333333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4333333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4333333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.412962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3925925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "visual",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.42592592592592593
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.41481481481481486
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.39444444444444443
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42592592592592593
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4055555555555556
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3907407407407407
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42592592592592593
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.40185185185185185
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.35740740740740734
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.3944444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.3907407407407407
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.3888888888888889
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3648148148148148
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.4388888888888889
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.41851851851851846
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4314814814814815
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.35555555555555557
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.3833333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.37037037037037035
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4111111111111111
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4537037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.4388888888888889
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.41851851851851846
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.41851851851851846
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4055555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3648148148148148
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.01,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3907407407407407
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42592592592592593
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41111111111111115
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37962962962962965
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41481481481481486
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.41111111111111115
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3666666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.4
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4333333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4537037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4333333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37222222222222223
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.40185185185185185
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4240740740740741
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4222222222222222
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 0.1,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.412962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42222222222222217
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42222222222222217
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37592592592592594
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4055555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.387037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.3888888888888889
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.40370370370370373
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.37407407407407406
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4425925925925926
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.42777777777777776
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.4074074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3833333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.41851851851851857
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.4
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.37222222222222223
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42037037037037045
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 1.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.4
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4574074074074074
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.4537037037037037
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.4314814814814815
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.1,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.40925925925925927
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.4092592592592592
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.4555555555555555
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.42592592592592593
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.4055555555555556
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.39444444444444443
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4462962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4462962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 0.5,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.42592592592592593
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.1,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.85,
+    "cv_grounding": 0.39814814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.0,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.05,
+    "cv_grounding": 0.44074074074074077
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.25,
+    "scale": 1.15,
+    "cv_grounding": 0.42037037037037034
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.85,
+    "cv_grounding": 0.38518518518518513
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.0,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.05,
+    "cv_grounding": 0.4166666666666667
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 0.5,
+    "scale": 1.15,
+    "cv_grounding": 0.39629629629629626
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.85,
+    "cv_grounding": 0.3833333333333333
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 0.95,
+    "cv_grounding": 0.42962962962962964
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4314814814814814
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 1.0,
+    "scale": 1.15,
+    "cv_grounding": 0.41111111111111115
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.85,
+    "cv_grounding": 0.39444444444444443
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 0.95,
+    "cv_grounding": 0.4444444444444444
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.0,
+    "cv_grounding": 0.4462962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.05,
+    "cv_grounding": 0.4462962962962963
+  },
+  {
+    "family": "visual_adapter",
+    "kind": "conditioned",
+    "alpha": 10.0,
+    "augmentation_weight": 1.0,
+    "amount": 2.0,
+    "scale": 1.15,
+    "cv_grounding": 0.42592592592592593
+  }
+]

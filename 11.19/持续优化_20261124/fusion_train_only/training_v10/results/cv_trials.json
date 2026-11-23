@@ -1,0 +1,338 @@
+[
+  {
+    "method": "baseline",
+    "amount": 0.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.16666666666666666,
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.20588235294117646,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "wins",
+    "amount": 0.03,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.16296296296296298,
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.19411764705882353,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "wins",
+    "amount": 0.1,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.15555555555555556,
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.19411764705882353,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "wins",
+    "amount": 0.3,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.1537037037037037,
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.18823529411764706,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "wins",
+    "amount": 1.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.1425925925925926,
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.17647058823529413,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "wins",
+    "amount": 3.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.1425925925925926,
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.1823529411764706,
+      0.19375
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "rating",
+    "amount": 0.03,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.16296296296296298,
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.19411764705882353,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "rating",
+    "amount": 0.1,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.15555555555555556,
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.19411764705882353,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "rating",
+    "amount": 0.3,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.15555555555555556,
+    "fold_weighted_retrieval": [
+      0.1,
+      0.1823529411764706,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "rating",
+    "amount": 1.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.1425925925925926,
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.17647058823529413,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "rating",
+    "amount": 3.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.1425925925925926,
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.1823529411764706,
+      0.19375
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "consensus",
+    "amount": 0.03,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.16296296296296298,
+    "fold_weighted_retrieval": [
+      0.10952380952380951,
+      0.19411764705882353,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "consensus",
+    "amount": 0.1,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.15555555555555556,
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.19411764705882353,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "consensus",
+    "amount": 0.3,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.15185185185185188,
+    "fold_weighted_retrieval": [
+      0.09047619047619049,
+      0.1823529411764706,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "consensus",
+    "amount": 1.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.1425925925925926,
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.17647058823529413,
+      0.2
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  },
+  {
+    "method": "consensus",
+    "amount": 3.0,
+    "retrieval": {
+      "family": "extra",
+      "depth": 2,
+      "amount": 3.0,
+      "cv_retrieval": 0.16666666666666666
+    },
+    "cv_retrieval": 0.1425925925925926,
+    "fold_weighted_retrieval": [
+      0.07142857142857144,
+      0.1823529411764706,
+      0.19375
+    ],
+    "fold_queries": [
+      21,
+      17,
+      16
+    ]
+  }
+]

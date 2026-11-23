@@ -1,0 +1,20 @@
+Complementary candidate {'policy': 'original', 'target': 'iou', 'alpha': 0.01}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'original', 'target': 'iou', 'alpha': 0.1}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'original', 'target': 'iou', 'alpha': 1.0}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'original', 'target': 'iou', 'alpha': 10.0}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'original', 'target': 'utility', 'alpha': 0.01}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'original', 'target': 'utility', 'alpha': 0.1}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'original', 'target': 'utility', 'alpha': 1.0}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'original', 'target': 'utility', 'alpha': 10.0}: best fit-side grounding 0.4722
+Complementary candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 0.01}: best fit-side grounding 0.4852
+Complementary candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 0.1}: best fit-side grounding 0.4852
+Complementary candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 1.0}: best fit-side grounding 0.4852
+Complementary candidate {'policy': 'expanded', 'target': 'iou', 'alpha': 10.0}: best fit-side grounding 0.4852
+Complementary candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 0.01}: best fit-side grounding 0.4852
+Complementary candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 0.1}: best fit-side grounding 0.4852
+Complementary candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 1.0}: best fit-side grounding 0.4852
+Complementary candidate {'policy': 'expanded', 'target': 'utility', 'alpha': 10.0}: best fit-side grounding 0.4852
+Chinese+English retrieval/exact: best fit-side recall 0.1630
+Chinese+English retrieval/semantic: best fit-side recall 0.1685
+Complementary fusion internal dev: {'images': 16, 'queries_per_task': 27, 'counts': {'R@1': 5, 'R@5': 15, 'Acc@0.5': 15, 'Acc@0.75': 11}, 'R@1': 0.18518518518518517, 'R@5': 0.5555555555555556, 'Acc@0.5': 0.5555555555555556, 'Acc@0.75': 0.4074074074074074, 'score_out_of_1': 0.5037037037037037}
+Chinese+English retrieval with retained LoRA localization: {'images': 16, 'queries_per_task': 27, 'counts': {'R@1': 5, 'R@5': 15, 'Acc@0.5': 16, 'Acc@0.75': 11}, 'R@1': 0.18518518518518517, 'R@5': 0.5555555555555556, 'Acc@0.5': 0.5925925925925926, 'Acc@0.75': 0.4074074074074074, 'score_out_of_1': 0.5259259259259259}

@@ -1,0 +1,13 @@
+Multi-view candidate training 5/24: best fit-side grounding 0.4537
+Multi-view candidate training 10/24: best fit-side grounding 0.4537
+Multi-view candidate training 15/24: best fit-side grounding 0.4537
+Multi-view candidate training 20/24: best fit-side grounding 0.4537
+Multi-view candidate training 24/24: best fit-side grounding 0.4537
+Attribute retrieval {'family': 'ridge', 'alpha': 0.01}: selected fit-side weighted recall 0.1130
+Attribute retrieval {'family': 'ridge', 'alpha': 0.1}: selected fit-side weighted recall 0.1278
+Attribute retrieval {'family': 'ridge', 'alpha': 1.0}: selected fit-side weighted recall 0.1556
+Attribute retrieval {'family': 'ridge', 'alpha': 10.0}: selected fit-side weighted recall 0.1556
+Attribute retrieval {'family': 'ridge', 'alpha': 100.0}: selected fit-side weighted recall 0.1556
+Attribute retrieval {'family': 'extra', 'depth': 2}: selected fit-side weighted recall 0.1667
+Attribute retrieval {'family': 'extra', 'depth': 4}: selected fit-side weighted recall 0.1667
+Multi-view internal development score: {'images': 16, 'queries_per_task': 27, 'counts': {'R@1': 5, 'R@5': 15, 'Acc@0.5': 15, 'Acc@0.75': 10}, 'R@1': 0.18518518518518517, 'R@5': 0.5555555555555556, 'Acc@0.5': 0.5555555555555556, 'Acc@0.75': 0.37037037037037035, 'score_out_of_1': 0.5}

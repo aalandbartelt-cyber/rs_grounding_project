@@ -1,0 +1,8 @@
+{
+  "artifact_type": "docker_image_export",
+  "accepted_archive_suffixes": [".tar", ".tar.gz"],
+  "max_archive_bytes": 10000000000,
+  "limit_inclusive": true,
+  "size_unit": "decimal GB: 1 GB = 1000000000 bytes",
+  "size_measured_on": "final exported archive file"
+}

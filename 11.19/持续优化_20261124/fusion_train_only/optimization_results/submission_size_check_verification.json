@@ -1,0 +1,28 @@
+{
+  "max_archive_bytes": 10000000000,
+  "boundary_cases": [
+    {
+      "bytes": -1,
+      "allowed": false
+    },
+    {
+      "bytes": 0,
+      "allowed": true
+    },
+    {
+      "bytes": 9999999999,
+      "allowed": true
+    },
+    {
+      "bytes": 10000000000,
+      "allowed": true
+    },
+    {
+      "bytes": 10000000001,
+      "allowed": false
+    }
+  ],
+  "CLI_small_archive_check_passed": true,
+  "final_submission_image_created_or_verified": false,
+  "passed": true
+}

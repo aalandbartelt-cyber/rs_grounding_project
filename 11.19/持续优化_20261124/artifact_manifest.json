@@ -14,6 +14,11 @@
       "sha256": "c9cbe79657e4f8648f56084a664f6c583f6c7b0aeb25db56e8afecf7ceaba7ff"
     },
     {
+      "path": "fusion_train_only/code/check_submission_size.py",
+      "bytes": 1681,
+      "sha256": "38d9270c4a80f3a4b8b9b11c07a64c79e613738e63907441ad1ee09d53a43b2a"
+    },
+    {
       "path": "fusion_train_only/code/common.py",
       "bytes": 4997,
       "sha256": "57e9f1e00e234a6ff07a7123b8fb6e31ea04d9261ad015bf33b423e18f10ead2"
@@ -120,8 +125,8 @@
     },
     {
       "path": "fusion_train_only/optimization_results/code/package_experiments.py",
-      "bytes": 5969,
-      "sha256": "55c65eb11033487d660bb9c3dd16a5f0a4ceb495c40fb419ad809ae665babce6"
+      "bytes": 6000,
+      "sha256": "a2999f552d8f852e8c90a37763d3ef3fbc931048b26a6a8b7f4e427a0a9b7629"
     },
     {
       "path": "fusion_train_only/optimization_results/current_best.json",
@@ -159,14 +164,19 @@
       "sha256": "27157f193c39f96c8ec552bbec1ee313df55e31ee2f854b196ac3d55a24c3330"
     },
     {
+      "path": "fusion_train_only/optimization_results/submission_size_check_verification.json",
+      "bytes": 505,
+      "sha256": "f5103040541536a5994eab011db424630325965657db147481c160d4ba37bebd"
+    },
+    {
       "path": "fusion_train_only/optimization_results/verification.json",
       "bytes": 10150,
       "sha256": "bcee7b1ba87aedc6e10b74dbaa86a40618dd83ce255f2779c7b64cbcf2e84dc3"
     },
     {
       "path": "fusion_train_only/README.md",
-      "bytes": 1851,
-      "sha256": "1680cb0881288e901c96db6b8b43b29dfb7e5a21b1aaf275feeb6ff75245bf70"
+      "bytes": 2253,
+      "sha256": "215e89aeef948a8d63770ef238d832a2f10c2c7861d9335c4746201747766536"
     },
     {
       "path": "fusion_train_only/results/ChineseCLIP_DINO_frozen_dev_predictions.json",
@@ -272,6 +282,11 @@
       "path": "fusion_train_only/sources/repositories.json",
       "bytes": 1160,
       "sha256": "4bf0edf0cd7fb51ef4477758ed2f15592fbbec82277ccff5c888677acd079357"
+    },
+    {
+      "path": "fusion_train_only/submission_limits.json",
+      "bytes": 267,
+      "sha256": "41602f61c08a397ce46a08279d9fd70c82afc8492a11106cb5d179af3bd05078"
     },
     {
       "path": "fusion_train_only/training_v1/code/adapt.py",
@@ -1615,8 +1630,8 @@
     },
     {
       "path": "fusion_train_only/复现步骤_20261124.md",
-      "bytes": 5999,
-      "sha256": "9cfb871309c5bc9a49ca14930c754730ea3ed3266a8b728cb0e9e1fd94fab276"
+      "bytes": 6385,
+      "sha256": "d2d5bf94e0f6e1c31a138d274900004a991d5538e0891e068ba820a345426121"
     }
   ]
 }

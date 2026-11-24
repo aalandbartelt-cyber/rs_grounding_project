@@ -42,7 +42,7 @@ def main():
                    'A100_rerun_performed': False, 'packages': packages}
     (BASE/'environment_packages.json').write_text(json.dumps(environment, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
 
-    paths = [BASE/'README.md', BASE/'复现步骤_20261124.md', BASE/'environment_packages.json',
+    paths = [BASE/'README.md', BASE/'复现步骤_20261124.md', BASE/'environment_packages.json', BASE/'submission_limits.json',
              BASE/'data/manifest.json', BASE/'sources/repositories.json']
     for folder in [BASE/'code']+[BASE/f'training_v{number}/code' for number in range(1, 19)]+[BASE/'optimization_results/code']:
         if folder.is_dir():

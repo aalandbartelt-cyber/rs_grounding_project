@@ -17,3 +17,5 @@
 本轮设备为 RTX 4060 Laptop 8 GB，未在 A100 重跑。新下载的 DINOv2 与 SigLIP 2 权重位于本目录 `weights/`；其固定版本和 SHA-256 见 `training_v15/results/dino_features_manifest.json` 和 `training_v18/results/siglip2_features_manifest.json`。新下载的是通用预训练权重，未达到分数门槛，未导出正式融合权重包或提交镜像。
 
 运行步骤和预期结果见 [复现步骤_20261124.md](复现步骤_20261124.md)。
+
+最终提交的 Docker 镜像导出包（`.tar` 或 `.tar.gz`）不得超过 **10 GB，即 10,000,000,000 字节**，按最终文件的实际大小验收。限制见 [submission_limits.json](submission_limits.json)；导出后运行 `python fusion_train_only/code/check_submission_size.py <镜像包路径> --report <检查报告路径>`，超限时返回非零退出码。正式镜像尚未生成。

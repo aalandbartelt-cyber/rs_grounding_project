@@ -1,0 +1,130 @@
+{
+  "source_file": "E:\\A大三\\智元\\vehicle_fusion_best_0.553239_20261126.tar.gz",
+  "name": "vehicle_fusion_best_0.553239_20261126.tar.gz",
+  "bytes": 1403191296,
+  "sha256": "bc2ebd92bd2880e2d4ce52fce124a68c3823451b73b1deaa0baca168ebc417ed",
+  "archive_complete": false,
+  "archive_error": "EOFError: Compressed file ended before the end-of-stream marker was reached",
+  "members": [
+    {
+      "name": "best_checkpoints/epoch_0001/fusion_head_attributes.json",
+      "bytes": 62995,
+      "complete": true
+    },
+    {
+      "name": "best_checkpoints/epoch_0001/detector/weights/last.pt",
+      "bytes": 104159297,
+      "complete": true
+    },
+    {
+      "name": "best_checkpoints/epoch_0001/detector.json",
+      "bytes": 138,
+      "complete": true
+    },
+    {
+      "name": "best.json",
+      "bytes": 332,
+      "complete": true
+    },
+    {
+      "name": "history.json",
+      "bytes": 644,
+      "complete": true
+    },
+    {
+      "name": "metrics_epoch_0001.json",
+      "bytes": 6497,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/ChineseCLIP/config.json",
+      "bytes": 1623,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/ChineseCLIP/model.safetensors",
+      "bytes": 753100148,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/ChineseCLIP/preprocessor_config.json",
+      "bytes": 530,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/ChineseCLIP/special_tokens_map.json",
+      "bytes": 695,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/ChineseCLIP/vocab.txt",
+      "bytes": 109540,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/ChineseCLIP/tokenizer.json",
+      "bytes": 439377,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/ChineseCLIP/tokenizer_config.json",
+      "bytes": 1536,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/GroundingDINO/preprocessor_config.json",
+      "bytes": 511,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/GroundingDINO/special_tokens_map.json",
+      "bytes": 695,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/GroundingDINO/config.json",
+      "bytes": 2693,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/GroundingDINO/model.safetensors",
+      "bytes": 689359096,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/GroundingDINO/tokenizer_config.json",
+      "bytes": 1319,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/GroundingDINO/vocab.txt",
+      "bytes": 231508,
+      "complete": true
+    },
+    {
+      "name": "CLIP_DINO_global_best_fusion_export_20261125/fusion.safetensors",
+      "bytes": 6864188,
+      "complete": false
+    }
+  ],
+  "recorded_best": {
+    "epoch": 1,
+    "score": 0.5532394366197183,
+    "gain": 0.008056338028168963,
+    "vehicle_acc05": 0.15073529411764705,
+    "vehicle_acc075": 0.022058823529411766,
+    "baseline_score": 0.5536901408450704,
+    "path": "best_checkpoints/epoch_0001",
+    "weights": "detector/weights/last.pt",
+    "fusion_head": "fusion_head_attributes.json"
+  },
+  "model_family": [
+    "Chinese-CLIP",
+    "GroundingDINO",
+    "YOLO26m-OBB"
+  ],
+  "fusion_kind": "vehicle detector + Chinese text/region matching, learned routing and attribute ranking; not simultaneous three-model joint training",
+  "score": 0.553239,
+  "score_scope": "internal scene-holdout evaluation; 371-image gallery and 1775 annotations; not official leaderboard",
+  "requested_upload": "original archive bytes, unchanged"
+}

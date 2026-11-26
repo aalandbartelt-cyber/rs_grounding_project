@@ -1,0 +1,34 @@
+{
+  "score": 0.5532394366197183,
+  "score_scope": "internal scene-holdout; not official leaderboard",
+  "gallery_images": 371,
+  "retrieval_queries": 1775,
+  "grounding_queries": 1775,
+  "aggregation": "Each metric counts each query equally within its task. No extra vehicle-category scoring weight; not a four-class macro average.",
+  "class_query_counts_each_task": {
+    "油罐": 408,
+    "舰船": 159,
+    "车辆": 272,
+    "飞机": 936
+  },
+  "class_query_shares_each_task": {
+    "油罐": 0.22985915492957745,
+    "舰船": 0.0895774647887324,
+    "车辆": 0.1532394366197183,
+    "飞机": 0.5273239436619719
+  },
+  "formula": {
+    "R@1": 0.1,
+    "R@5": 0.2,
+    "Acc@0.5": 0.6,
+    "Acc@0.75": 0.1
+  },
+  "model_roles": {
+    "Chinese-CLIP": "Chinese description and regional visual matching",
+    "GroundingDINO": "proposals for non-vehicle categories",
+    "YOLO26m-OBB": "specialized vehicle detector with sliding-window inference"
+  },
+  "checkpoint_selection": "old best_checkpoints/epoch_0001; source best.json score 0.5532394366197183",
+  "source_archive": "vehicle_fusion_best_0.553239_20261126.tar.gz",
+  "archive_complete": false
+}
